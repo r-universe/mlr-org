@@ -98,7 +98,3 @@
 	path = Biobase
 	url = https://github.com/Bioconductor/Biobase
 	shallow = true
-[submodule "mlr3"]
-	path = mlr3
-	url = https://github.com/mlr-org/mlr3
-	shallow = true
