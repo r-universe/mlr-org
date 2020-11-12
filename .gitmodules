@@ -83,6 +83,11 @@
 	url = https://github.com/mlr-org/mlr3proba
 	shallow = true
 	branch = HEAD
+[submodule "mlr3spatiotempcv"]
+	path = mlr3spatiotempcv
+	url = https://github.com/mlr-org/mlr3spatiotempcv
+	shallow = true
+	branch = HEAD
 [submodule "mlr3tuning"]
 	path = mlr3tuning
 	url = https://github.com/mlr-org/mlr3tuning
