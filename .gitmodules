@@ -2,129 +2,103 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
-	branch = HEAD
 [submodule "bbotk"]
 	path = bbotk
 	url = https://github.com/mlr-org/bbotk
 	shallow = true
-	branch = HEAD
 [submodule "farff"]
 	path = farff
 	url = https://github.com/mlr-org/farff
 	shallow = true
-	branch = HEAD
 [submodule "mlr"]
 	path = mlr
 	url = https://github.com/mlr-org/mlr
 	shallow = true
-	branch = HEAD
 [submodule "mlr3"]
 	path = mlr3
 	url = https://github.com/mlr-org/mlr3
 	shallow = true
-	branch = HEAD
 [submodule "mlr3cluster"]
 	path = mlr3cluster
 	url = https://github.com/mlr-org/mlr3cluster
 	shallow = true
-	branch = HEAD
 [submodule "mlr3data"]
 	path = mlr3data
 	url = https://github.com/mlr-org/mlr3data
 	shallow = true
-	branch = HEAD
 [submodule "mlr3db"]
 	path = mlr3db
 	url = https://github.com/mlr-org/mlr3db
 	shallow = true
-	branch = HEAD
 [submodule "mlr3filters"]
 	path = mlr3filters
 	url = https://github.com/mlr-org/mlr3filters
 	shallow = true
-	branch = HEAD
 [submodule "mlr3fselect"]
 	path = mlr3fselect
 	url = https://github.com/mlr-org/mlr3fselect
 	shallow = true
-	branch = HEAD
 [submodule "mlr3hyperband"]
 	path = mlr3hyperband
 	url = https://github.com/mlr-org/mlr3hyperband
 	shallow = true
-	branch = HEAD
 [submodule "mlr3learners"]
 	path = mlr3learners
 	url = https://github.com/mlr-org/mlr3learners
 	shallow = true
-	branch = HEAD
 [submodule "mlr3measures"]
 	path = mlr3measures
 	url = https://github.com/mlr-org/mlr3measures
 	shallow = true
-	branch = HEAD
 [submodule "mlr3misc"]
 	path = mlr3misc
 	url = https://github.com/mlr-org/mlr3misc
 	shallow = true
-	branch = HEAD
 [submodule "mlr3oml"]
 	path = mlr3oml
 	url = https://github.com/mlr-org/mlr3oml
 	shallow = true
-	branch = HEAD
 [submodule "mlr3pipelines"]
 	path = mlr3pipelines
 	url = https://github.com/mlr-org/mlr3pipelines
 	shallow = true
-	branch = HEAD
 [submodule "mlr3proba"]
 	path = mlr3proba
 	url = https://github.com/mlr-org/mlr3proba
 	shallow = true
-	branch = HEAD
 [submodule "mlr3spatiotempcv"]
 	path = mlr3spatiotempcv
 	url = https://github.com/mlr-org/mlr3spatiotempcv
 	shallow = true
-	branch = HEAD
 [submodule "mlr3tuning"]
 	path = mlr3tuning
 	url = https://github.com/mlr-org/mlr3tuning
 	shallow = true
-	branch = HEAD
 [submodule "mlr3verse"]
 	path = mlr3verse
 	url = https://github.com/mlr-org/mlr3verse
 	shallow = true
-	branch = HEAD
 [submodule "mlr3viz"]
 	path = mlr3viz
 	url = https://github.com/mlr-org/mlr3viz
 	shallow = true
-	branch = HEAD
 [submodule "mlrCPO"]
 	path = mlrCPO
 	url = https://github.com/mlr-org/mlrcpo
 	shallow = true
-	branch = HEAD
 [submodule "mlrMBO"]
 	path = mlrMBO
 	url = https://github.com/mlr-org/mlrmbo
 	shallow = true
-	branch = HEAD
 [submodule "paradox"]
 	path = paradox
 	url = https://github.com/mlr-org/paradox
 	shallow = true
-	branch = HEAD
 [submodule "ParamHelpers"]
 	path = ParamHelpers
 	url = https://github.com/mlr-org/paramhelpers
 	shallow = true
-	branch = HEAD
 [submodule "Biobase"]
 	path = Biobase
 	url = https://github.com/Bioconductor/Biobase
 	shallow = true
-	branch = HEAD
