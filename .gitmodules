@@ -19,6 +19,10 @@
 	path = mlr3
 	url = https://github.com/mlr-org/mlr3
 	shallow = true
+[submodule "mlr3benchmark"]
+	path = mlr3benchmark
+	url = https://github.com/mlr-org/mlr3benchmark
+	shallow = true
 [submodule "mlr3cluster"]
 	path = mlr3cluster
 	url = https://github.com/mlr-org/mlr3cluster
