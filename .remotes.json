@@ -15,7 +15,6 @@
     "package": "paradox",
     "url": "https://github.com/mlr-org/paradox",
     "via": ["mlr3"],
-    "branch": "tune_token",
     "from": "mlr3"
   }
 ]
