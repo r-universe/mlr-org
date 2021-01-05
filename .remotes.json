@@ -22,5 +22,11 @@
     "url": "https://github.com/mlr-org/bbotk",
     "via": ["mlr3tuning"],
     "from": "mlr3tuning"
+  },
+  {
+    "package": "paradox",
+    "url": "https://github.com/mlr-org/paradox",
+    "via": ["bbotk"],
+    "from": "bbotk"
   }
 ]
