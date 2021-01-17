@@ -50,6 +50,12 @@
   {
     "package": "paradox",
     "url": "https://github.com/mlr-org/paradox",
+    "via": ["mlr3hyperband"],
+    "from": "mlr3hyperband"
+  },
+  {
+    "package": "paradox",
+    "url": "https://github.com/mlr-org/paradox",
     "via": ["mlr3tuning", "bbotk"],
     "from": "mlr3tuning"
   },
