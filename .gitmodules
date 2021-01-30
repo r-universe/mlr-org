@@ -43,6 +43,10 @@
 	path = mlr3fselect
 	url = https://github.com/mlr-org/mlr3fselect
 	shallow = true
+[submodule "mlr3hyperband"]
+	path = mlr3hyperband
+	url = https://github.com/mlr-org/mlr3hyperband
+	shallow = true
 [submodule "mlr3learners"]
 	path = mlr3learners
 	url = https://github.com/mlr-org/mlr3learners
