@@ -99,6 +99,10 @@
 	path = paradox
 	url = https://github.com/mlr-org/paradox
 	shallow = true
+[submodule "parallelMap"]
+	path = parallelMap
+	url = https://github.com/mlr-org/parallelMap
+	shallow = true
 [submodule "ParamHelpers"]
 	path = ParamHelpers
 	url = https://github.com/mlr-org/paramhelpers
