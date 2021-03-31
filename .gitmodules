@@ -31,10 +31,6 @@
 	path = mlr3data
 	url = https://github.com/mlr-org/mlr3data
 	shallow = true
-[submodule "mlr3db"]
-	path = mlr3db
-	url = https://github.com/mlr-org/mlr3db
-	shallow = true
 [submodule "mlr3filters"]
 	path = mlr3filters
 	url = https://github.com/mlr-org/mlr3filters
