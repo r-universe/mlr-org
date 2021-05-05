@@ -4,5 +4,11 @@
     "url": "https://github.com/Bioconductor/Biobase",
     "via": ["mlr3pipelines"],
     "from": "mlr3pipelines"
+  },
+  {
+    "package": "mlr3",
+    "url": "https://github.com/mlr-org/mlr3",
+    "via": ["mlr3proba"],
+    "from": "mlr3proba"
   }
 ]
