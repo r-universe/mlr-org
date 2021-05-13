@@ -8,160 +8,133 @@
 	url = https://github.com/mlr-org/bbotk
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "farff"]
 	path = farff
 	url = https://github.com/mlr-org/farff
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr"]
 	path = mlr
 	url = https://github.com/mlr-org/mlr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3"]
 	path = mlr3
 	url = https://github.com/mlr-org/mlr3
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3benchmark"]
 	path = mlr3benchmark
 	url = https://github.com/mlr-org/mlr3benchmark
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3cluster"]
 	path = mlr3cluster
 	url = https://github.com/mlr-org/mlr3cluster
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3data"]
 	path = mlr3data
 	url = https://github.com/mlr-org/mlr3data
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3db"]
 	path = mlr3db
 	url = https://github.com/mlr-org/mlr3db
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3filters"]
 	path = mlr3filters
 	url = https://github.com/mlr-org/mlr3filters
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3fselect"]
 	path = mlr3fselect
 	url = https://github.com/mlr-org/mlr3fselect
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3hyperband"]
 	path = mlr3hyperband
 	url = https://github.com/mlr-org/mlr3hyperband
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3learners"]
 	path = mlr3learners
 	url = https://github.com/mlr-org/mlr3learners
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3measures"]
 	path = mlr3measures
 	url = https://github.com/mlr-org/mlr3measures
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3misc"]
 	path = mlr3misc
 	url = https://github.com/mlr-org/mlr3misc
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3oml"]
 	path = mlr3oml
 	url = https://github.com/mlr-org/mlr3oml
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3pipelines"]
 	path = mlr3pipelines
 	url = https://github.com/mlr-org/mlr3pipelines
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3proba"]
 	path = mlr3proba
 	url = https://github.com/mlr-org/mlr3proba
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3spatiotempcv"]
 	path = mlr3spatiotempcv
 	url = https://github.com/mlr-org/mlr3spatiotempcv
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3tuning"]
 	path = mlr3tuning
 	url = https://github.com/mlr-org/mlr3tuning
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3verse"]
 	path = mlr3verse
 	url = https://github.com/mlr-org/mlr3verse
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlr3viz"]
 	path = mlr3viz
 	url = https://github.com/mlr-org/mlr3viz
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlrCPO"]
 	path = mlrCPO
 	url = https://github.com/mlr-org/mlrcpo
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mlrMBO"]
 	path = mlrMBO
 	url = https://github.com/mlr-org/mlrmbo
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "paradox"]
 	path = paradox
 	url = https://github.com/mlr-org/paradox
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "parallelMap"]
 	path = parallelMap
 	url = https://github.com/mlr-org/parallelMap
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "ParamHelpers"]
 	path = ParamHelpers
 	url = https://github.com/mlr-org/paramhelpers
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "Biobase"]
 	path = Biobase
 	url = https://github.com/Bioconductor/Biobase
 	shallow = true
 	registered = false
-	oncran = true
