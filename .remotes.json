@@ -15,7 +15,6 @@
     "package": "mlr3",
     "url": "https://github.com/mlr-org/mlr3",
     "via": ["mlr3tuning"],
-    "branch": "get_base_learner",
     "from": "mlr3tuning"
   }
 ]
