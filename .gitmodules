@@ -13,6 +13,11 @@
 	url = https://github.com/mlr-org/farff
 	shallow = true
 	registered = true
+[submodule "mcboost"]
+	path = mcboost
+	url = https://github.com/mlr-org/mcboost
+	shallow = true
+	registered = true
 [submodule "mlr"]
 	path = mlr
 	url = https://github.com/mlr-org/mlr

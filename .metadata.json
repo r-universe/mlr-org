@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "mcboost",
+    "oncran": true
+  },
+  {
     "package": "mlr",
     "oncran": true
   },
