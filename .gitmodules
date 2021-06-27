@@ -130,7 +130,7 @@
 	registered = true
 [submodule "parallelMap"]
 	path = parallelMap
-	url = https://github.com/mlr-org/parallelMap
+	url = https://github.com/mlr-org/parallelmap
 	shallow = true
 	registered = true
 [submodule "ParamHelpers"]

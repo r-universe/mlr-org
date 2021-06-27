@@ -101,7 +101,7 @@
   },
   {
     "package": "parallelMap",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "ParamHelpers",
