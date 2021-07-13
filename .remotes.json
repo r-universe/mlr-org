@@ -40,5 +40,11 @@
     "url": "https://github.com/mlr-org/mlr3misc",
     "via": ["mlr3fselect"],
     "from": "mlr3fselect"
+  },
+  {
+    "package": "mlr3misc",
+    "url": "https://github.com/mlr-org/mlr3misc",
+    "via": ["mlr3tuning"],
+    "from": "mlr3tuning"
   }
 ]
