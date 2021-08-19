@@ -32,12 +32,6 @@
   {
     "package": "mlr3",
     "url": "https://github.com/mlr-org/mlr3",
-    "via": ["mlr3spatiotempcv"],
-    "from": "mlr3spatiotempcv"
-  },
-  {
-    "package": "mlr3",
-    "url": "https://github.com/mlr-org/mlr3",
     "via": ["mlr3tuning"],
     "from": "mlr3tuning"
   },
@@ -46,12 +40,6 @@
     "url": "https://github.com/mlr-org/mlr3misc",
     "via": ["mlr3fselect"],
     "from": "mlr3fselect"
-  },
-  {
-    "package": "mlr3misc",
-    "url": "https://github.com/mlr-org/mlr3misc",
-    "via": ["mlr3spatiotempcv"],
-    "from": "mlr3spatiotempcv"
   },
   {
     "package": "mlr3misc",
