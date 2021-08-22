@@ -138,8 +138,3 @@
 	url = https://github.com/mlr-org/paramhelpers
 	shallow = true
 	registered = true
-[submodule "Biobase"]
-	path = Biobase
-	url = https://github.com/Bioconductor/Biobase
-	shallow = true
-	registered = false
