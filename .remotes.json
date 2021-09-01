@@ -20,12 +20,6 @@
   {
     "package": "mlr3",
     "url": "https://github.com/mlr-org/mlr3",
-    "via": ["mlr3proba"],
-    "from": "mlr3proba"
-  },
-  {
-    "package": "mlr3",
-    "url": "https://github.com/mlr-org/mlr3",
     "via": ["mlr3tuning"],
     "from": "mlr3tuning"
   },
