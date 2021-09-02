@@ -138,3 +138,8 @@
 	url = https://github.com/mlr-org/paramhelpers
 	shallow = true
 	registered = true
+[submodule "distr6"]
+	path = distr6
+	url = https://github.com/alan-turing-institute/distr6
+	shallow = true
+	registered = false
