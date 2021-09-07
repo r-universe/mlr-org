@@ -113,3 +113,8 @@
 	url = https://github.com/mlr-org/mlr3extralearners
 	shallow = true
 	registered = true
+[submodule "CoxBoost"]
+	path = CoxBoost
+	url = https://github.com/binderh/CoxBoost
+	shallow = true
+	registered = false
