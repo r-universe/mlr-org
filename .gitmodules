@@ -1,26 +1,11 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/mlr-org/universe
 	shallow = true
 	branch = HEAD
 [submodule "bbotk"]
 	path = bbotk
 	url = https://github.com/mlr-org/bbotk
-	shallow = true
-	registered = true
-[submodule "farff"]
-	path = farff
-	url = https://github.com/mlr-org/farff
-	shallow = true
-	registered = true
-[submodule "mcboost"]
-	path = mcboost
-	url = https://github.com/mlr-org/mcboost
-	shallow = true
-	registered = true
-[submodule "mlr"]
-	path = mlr
-	url = https://github.com/mlr-org/mlr
 	shallow = true
 	registered = true
 [submodule "mlr3"]
@@ -68,11 +53,6 @@
 	url = https://github.com/mlr-org/mlr3learners
 	shallow = true
 	registered = true
-[submodule "mlr3measures"]
-	path = mlr3measures
-	url = https://github.com/mlr-org/mlr3measures
-	shallow = true
-	registered = true
 [submodule "mlr3misc"]
 	path = mlr3misc
 	url = https://github.com/mlr-org/mlr3misc
@@ -113,28 +93,18 @@
 	url = https://github.com/mlr-org/mlr3viz
 	shallow = true
 	registered = true
-[submodule "mlrCPO"]
-	path = mlrCPO
-	url = https://github.com/mlr-org/mlrcpo
-	shallow = true
-	registered = true
-[submodule "mlrMBO"]
-	path = mlrMBO
-	url = https://github.com/mlr-org/mlrmbo
-	shallow = true
-	registered = true
 [submodule "paradox"]
 	path = paradox
 	url = https://github.com/mlr-org/paradox
 	shallow = true
 	registered = true
-[submodule "parallelMap"]
-	path = parallelMap
-	url = https://github.com/mlr-org/parallelmap
+[submodule "mlr3spatial"]
+	path = mlr3spatial
+	url = https://github.com/mlr-org/mlr3spatial
 	shallow = true
 	registered = true
-[submodule "ParamHelpers"]
-	path = ParamHelpers
-	url = https://github.com/mlr-org/paramhelpers
+[submodule "mlr3MBO"]
+	path = mlr3MBO
+	url = https://github.com/mlr-org/mlr3MBO
 	shallow = true
 	registered = true
