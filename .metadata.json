@@ -80,5 +80,8 @@
   },
   {
     "package": "mlr3MBO"
+  },
+  {
+    "package": "mlr3extralearners"
   }
 ]
