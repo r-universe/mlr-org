@@ -8,32 +8,14 @@
   {
     "package": "bbotk",
     "url": "https://github.com/mlr-org/bbotk",
-    "via": ["mlr3fselect"],
-    "from": "mlr3fselect"
-  },
-  {
-    "package": "bbotk",
-    "url": "https://github.com/mlr-org/bbotk",
     "via": ["mlr3tuning"],
     "from": "mlr3tuning"
   },
   {
     "package": "mlr3",
     "url": "https://github.com/mlr-org/mlr3",
-    "via": ["mlr3fselect"],
-    "from": "mlr3fselect"
-  },
-  {
-    "package": "mlr3",
-    "url": "https://github.com/mlr-org/mlr3",
     "via": ["mlr3tuning"],
     "from": "mlr3tuning"
-  },
-  {
-    "package": "mlr3misc",
-    "url": "https://github.com/mlr-org/mlr3misc",
-    "via": ["mlr3fselect"],
-    "from": "mlr3fselect"
   },
   {
     "package": "mlr3misc",
