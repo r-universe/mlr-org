@@ -4,5 +4,17 @@
     "url": "https://github.com/binderh/CoxBoost",
     "via": ["mlr3extralearners"],
     "from": "mlr3extralearners"
+  },
+  {
+    "package": "bbotk",
+    "url": "https://github.com/mlr-org/bbotk",
+    "via": ["mlr3mbo"],
+    "from": "mlr3mbo"
+  },
+  {
+    "package": "mlr3tuning",
+    "url": "https://github.com/mlr-org/mlr3tuning",
+    "via": ["mlr3mbo"],
+    "from": "mlr3mbo"
   }
 ]
