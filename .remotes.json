@@ -12,6 +12,12 @@
     "from": "mlr3mbo"
   },
   {
+    "package": "data.table",
+    "url": "https://github.com/Rdatatable/data.table",
+    "via": ["mlr3"],
+    "from": "mlr3"
+  },
+  {
     "package": "mlr3tuning",
     "url": "https://github.com/mlr-org/mlr3tuning",
     "via": ["mlr3mbo"],
