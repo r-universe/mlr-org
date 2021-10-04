@@ -103,6 +103,11 @@
 	url = https://github.com/mlr-org/mlr3spatial
 	shallow = true
 	registered = true
+[submodule "mlr3MBO"]
+	path = mlr3MBO
+	url = https://github.com/mlr-org/mlr3MBO
+	shallow = true
+	registered = true
 [submodule "mlr3extralearners"]
 	path = mlr3extralearners
 	url = https://github.com/mlr-org/mlr3extralearners
