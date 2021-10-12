@@ -26,6 +26,12 @@
   {
     "package": "mlr3tuning",
     "url": "https://github.com/mlr-org/mlr3tuning",
+    "via": ["mlr3hyperband"],
+    "from": "mlr3hyperband"
+  },
+  {
+    "package": "mlr3tuning",
+    "url": "https://github.com/mlr-org/mlr3tuning",
     "via": ["mlr3mbo"],
     "from": "mlr3mbo"
   }
