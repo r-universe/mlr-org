@@ -8,11 +8,6 @@
 	url = https://github.com/mlr-org/bbotk
 	shallow = true
 	registered = true
-[submodule "mlr3"]
-	path = mlr3
-	url = https://github.com/mlr-org/mlr3
-	shallow = true
-	registered = true
 [submodule "mlr3benchmark"]
 	path = mlr3benchmark
 	url = https://github.com/mlr-org/mlr3benchmark
@@ -41,11 +36,6 @@
 [submodule "mlr3fselect"]
 	path = mlr3fselect
 	url = https://github.com/mlr-org/mlr3fselect
-	shallow = true
-	registered = true
-[submodule "mlr3hyperband"]
-	path = mlr3hyperband
-	url = https://github.com/mlr-org/mlr3hyperband
 	shallow = true
 	registered = true
 [submodule "mlr3learners"]
@@ -106,11 +96,6 @@
 [submodule "mlr3MBO"]
 	path = mlr3MBO
 	url = https://github.com/mlr-org/mlr3MBO
-	shallow = true
-	registered = true
-[submodule "mlr3extralearners"]
-	path = mlr3extralearners
-	url = https://github.com/mlr-org/mlr3extralearners
 	shallow = true
 	registered = true
 [submodule "CoxBoost"]
