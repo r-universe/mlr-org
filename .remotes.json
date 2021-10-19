@@ -24,6 +24,18 @@
     "from": "mlr3"
   },
   {
+    "package": "data.table",
+    "url": "https://github.com/Rdatatable/data.table",
+    "via": ["mlr3learners", "mlr3"],
+    "from": "mlr3learners"
+  },
+  {
+    "package": "mlr3",
+    "url": "https://github.com/mlr-org/mlr3",
+    "via": ["mlr3learners"],
+    "from": "mlr3learners"
+  },
+  {
     "package": "mlr3tuning",
     "url": "https://github.com/mlr-org/mlr3tuning",
     "via": ["mlr3hyperband"],
