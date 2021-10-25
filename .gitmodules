@@ -118,11 +118,6 @@
 	url = https://github.com/binderh/CoxBoost
 	shallow = true
 	registered = false
-[submodule "checkmate"]
-	path = checkmate
-	url = https://github.com/mllg/checkmate
-	shallow = true
-	registered = false
 [submodule "data.table"]
 	path = data.table
 	url = https://github.com/Rdatatable/data.table

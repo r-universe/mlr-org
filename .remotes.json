@@ -18,12 +18,6 @@
     "from": "mlr3mbo"
   },
   {
-    "package": "checkmate",
-    "url": "https://github.com/mllg/checkmate",
-    "via": ["bbotk"],
-    "from": "bbotk"
-  },
-  {
     "package": "data.table",
     "url": "https://github.com/Rdatatable/data.table",
     "via": ["mlr3"],
