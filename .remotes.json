@@ -14,12 +14,6 @@
   {
     "package": "data.table",
     "url": "https://github.com/Rdatatable/data.table",
-    "via": ["mlr3"],
-    "from": "mlr3"
-  },
-  {
-    "package": "data.table",
-    "url": "https://github.com/Rdatatable/data.table",
     "via": ["mlr3learners", "mlr3"],
     "from": "mlr3learners"
   },
