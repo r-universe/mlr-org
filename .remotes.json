@@ -12,10 +12,22 @@
     "from": "mlr3hyperband"
   },
   {
+    "package": "bbotk",
+    "url": "https://github.com/mlr-org/bbotk",
+    "via": ["mlr3tuning"],
+    "from": "mlr3tuning"
+  },
+  {
     "package": "mlr3",
     "url": "https://github.com/mlr-org/mlr3",
     "via": ["mlr3learners"],
     "from": "mlr3learners"
+  },
+  {
+    "package": "mlr3",
+    "url": "https://github.com/mlr-org/mlr3",
+    "via": ["mlr3tuning"],
+    "from": "mlr3tuning"
   },
   {
     "package": "mlr3tuning",
