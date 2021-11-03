@@ -8,6 +8,12 @@
   {
     "package": "bbotk",
     "url": "https://github.com/mlr-org/bbotk",
+    "via": ["mlr3hyperband", "mlr3tuning"],
+    "from": "mlr3hyperband"
+  },
+  {
+    "package": "bbotk",
+    "url": "https://github.com/mlr-org/bbotk",
     "via": ["mlr3hyperband"],
     "from": "mlr3hyperband"
   },
@@ -22,6 +28,12 @@
     "url": "https://github.com/alan-turing-institute/distr6",
     "via": ["mlr3proba"],
     "from": "mlr3proba"
+  },
+  {
+    "package": "mlr3",
+    "url": "https://github.com/mlr-org/mlr3",
+    "via": ["mlr3hyperband", "mlr3tuning"],
+    "from": "mlr3hyperband"
   },
   {
     "package": "mlr3",
