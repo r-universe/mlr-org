@@ -8,6 +8,12 @@
   {
     "package": "bbotk",
     "url": "https://github.com/mlr-org/bbotk",
+    "via": ["mlr3fselect"],
+    "from": "mlr3fselect"
+  },
+  {
+    "package": "bbotk",
+    "url": "https://github.com/mlr-org/bbotk",
     "via": ["mlr3hyperband", "mlr3tuning"],
     "from": "mlr3hyperband"
   },
