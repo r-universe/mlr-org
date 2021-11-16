@@ -76,7 +76,8 @@
     "oncran": true
   },
   {
-    "package": "mlr3spatial"
+    "package": "mlr3spatial",
+    "oncran": false
   },
   {
     "package": "mlr3MBO"
