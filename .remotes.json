@@ -14,6 +14,12 @@
   {
     "package": "bbotk",
     "url": "https://github.com/mlr-org/bbotk",
+    "via": ["mlr3hyperband", "mlr3tuning"],
+    "from": "mlr3hyperband"
+  },
+  {
+    "package": "bbotk",
+    "url": "https://github.com/mlr-org/bbotk",
     "via": ["mlr3hyperband"],
     "from": "mlr3hyperband"
   },
