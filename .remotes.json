@@ -16,5 +16,11 @@
     "url": "https://github.com/RaphaelS1/survivalmodels",
     "via": ["mlr3extralearners"],
     "from": "mlr3extralearners"
+  },
+  {
+    "package": "survivalmodels",
+    "url": "https://github.com/RaphaelS1/survivalmodels",
+    "via": ["mlr3proba"],
+    "from": "mlr3proba"
   }
 ]
