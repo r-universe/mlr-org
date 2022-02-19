@@ -118,3 +118,8 @@
 	url = https://github.com/binderh/CoxBoost
 	shallow = true
 	registered = false
+[submodule "survivalmodels"]
+	path = survivalmodels
+	url = https://github.com/RaphaelS1/survivalmodels
+	shallow = true
+	registered = false
