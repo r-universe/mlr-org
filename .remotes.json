@@ -6,6 +6,13 @@
     "from": "mlr3extralearners"
   },
   {
+    "package": "_PROJECT_PACKAGE_NAME_",
+    "url": "https://github.com/kogalur/randomForestSRC",
+    "via": ["mlr3extralearners"],
+    "subdir": "src/main/resources/cran",
+    "from": "mlr3extralearners"
+  },
+  {
     "package": "mlr3proba",
     "url": "https://github.com/mlr-org/mlr3proba",
     "via": ["mlr3extralearners"],
