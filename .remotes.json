@@ -6,6 +6,12 @@
     "from": "mlr3extralearners"
   },
   {
+    "package": "bbotk",
+    "url": "https://github.com/mlr-org/bbotk",
+    "via": ["mlr3fselect"],
+    "from": "mlr3fselect"
+  },
+  {
     "package": "mlr3proba",
     "url": "https://github.com/mlr-org/mlr3proba",
     "via": ["mlr3extralearners"],
