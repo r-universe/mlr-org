@@ -30,12 +30,6 @@
     "from": "mlr3tuning"
   },
   {
-    "package": "distr6",
-    "url": "https://github.com/alan-turing-institute/distr6",
-    "via": ["mlr3proba"],
-    "from": "mlr3proba"
-  },
-  {
     "package": "mlr3proba",
     "url": "https://github.com/mlr-org/mlr3proba",
     "via": ["mlr3extralearners"],
