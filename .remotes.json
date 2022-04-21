@@ -18,12 +18,6 @@
     "from": "mlr3hyperband"
   },
   {
-    "package": "distr6",
-    "url": "https://github.com/alan-turing-institute/distr6",
-    "via": ["mlr3extralearners"],
-    "from": "mlr3extralearners"
-  },
-  {
     "package": "mlr3proba",
     "url": "https://github.com/mlr-org/mlr3proba",
     "via": ["mlr3extralearners"],
@@ -34,18 +28,6 @@
     "url": "https://github.com/mlr-org/mlr3tuning",
     "via": ["mlr3hyperband"],
     "from": "mlr3hyperband"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["mlr3extralearners"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3extralearners"],
-    "from": "mlr3extralearners"
   },
   {
     "package": "survivalmodels",
