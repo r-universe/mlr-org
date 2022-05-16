@@ -52,8 +52,7 @@
     "oncran": true
   },
   {
-    "package": "mlr3proba",
-    "oncran": true
+    "package": "mlr3proba"
   },
   {
     "package": "mlr3spatiotempcv",
@@ -64,8 +63,7 @@
     "oncran": true
   },
   {
-    "package": "mlr3verse",
-    "oncran": true
+    "package": "mlr3verse"
   },
   {
     "package": "mlr3viz",
