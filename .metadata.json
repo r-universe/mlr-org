@@ -63,7 +63,8 @@
     "oncran": true
   },
   {
-    "package": "mlr3verse"
+    "package": "mlr3verse",
+    "oncran": false
   },
   {
     "package": "mlr3viz",
