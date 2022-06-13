@@ -24,12 +24,6 @@
     "from": "mlr3extralearners"
   },
   {
-    "package": "mlr3spatial",
-    "url": "https://github.com/mlr-org/mlr3spatial",
-    "via": ["mlr3spatiotempcv"],
-    "from": "mlr3spatiotempcv"
-  },
-  {
     "package": "survivalmodels",
     "url": "https://github.com/RaphaelS1/survivalmodels",
     "via": ["mlr3extralearners"],
