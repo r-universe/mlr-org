@@ -36,6 +36,12 @@
     "from": "mlr3spatial"
   },
   {
+    "package": "mlr3",
+    "url": "https://github.com/mlr-org/mlr3",
+    "via": ["mlr3tuning"],
+    "from": "mlr3tuning"
+  },
+  {
     "package": "mlr3proba",
     "url": "https://github.com/mlr-org/mlr3proba",
     "via": ["mlr3extralearners"],
@@ -58,6 +64,12 @@
     "url": "https://github.com/mlr-org/paradox",
     "via": ["mlr3proba", "mlr3"],
     "from": "mlr3proba"
+  },
+  {
+    "package": "paradox",
+    "url": "https://github.com/mlr-org/paradox",
+    "via": ["mlr3tuning", "mlr3"],
+    "from": "mlr3tuning"
   },
   {
     "package": "survivalmodels",
