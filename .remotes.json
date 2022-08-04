@@ -20,6 +20,12 @@
   {
     "package": "mlr3",
     "url": "https://github.com/mlr-org/mlr3",
+    "via": ["mlr3learners"],
+    "from": "mlr3learners"
+  },
+  {
+    "package": "mlr3",
+    "url": "https://github.com/mlr-org/mlr3",
     "via": ["mlr3spatial"],
     "from": "mlr3spatial"
   },
@@ -34,6 +40,12 @@
     "url": "https://github.com/mlr-org/paradox",
     "via": ["mlr3"],
     "from": "mlr3"
+  },
+  {
+    "package": "paradox",
+    "url": "https://github.com/mlr-org/paradox",
+    "via": ["mlr3learners", "mlr3"],
+    "from": "mlr3learners"
   },
   {
     "package": "survivalmodels",
