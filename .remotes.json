@@ -21,7 +21,6 @@
     "package": "mlr3",
     "url": "https://github.com/mlr-org/mlr3",
     "via": ["mlr3spatial"],
-    "branch": "new_tasks",
     "from": "mlr3spatial"
   },
   {
