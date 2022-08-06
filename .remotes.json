@@ -68,6 +68,12 @@
   {
     "package": "paradox",
     "url": "https://github.com/mlr-org/paradox",
+    "via": ["mlr3spatial", "mlr3"],
+    "from": "mlr3spatial"
+  },
+  {
+    "package": "paradox",
+    "url": "https://github.com/mlr-org/paradox",
     "via": ["mlr3tuning", "mlr3"],
     "from": "mlr3tuning"
   },
