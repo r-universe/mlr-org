@@ -74,12 +74,6 @@
   {
     "package": "paradox",
     "url": "https://github.com/mlr-org/paradox",
-    "via": ["mlr3learners", "mlr3"],
-    "from": "mlr3learners"
-  },
-  {
-    "package": "paradox",
-    "url": "https://github.com/mlr-org/paradox",
     "via": ["mlr3proba", "mlr3"],
     "from": "mlr3proba"
   },
