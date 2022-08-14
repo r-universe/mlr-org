@@ -20,12 +20,6 @@
   {
     "package": "mlr3",
     "url": "https://github.com/mlr-org/mlr3",
-    "via": ["mlr3cluster"],
-    "from": "mlr3cluster"
-  },
-  {
-    "package": "mlr3",
-    "url": "https://github.com/mlr-org/mlr3",
     "via": ["mlr3extralearners", "mlr3proba"],
     "from": "mlr3extralearners"
   },
