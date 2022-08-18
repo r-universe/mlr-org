@@ -32,12 +32,6 @@
   {
     "package": "mlr3",
     "url": "https://github.com/mlr-org/mlr3",
-    "via": ["mlr3spatial"],
-    "from": "mlr3spatial"
-  },
-  {
-    "package": "mlr3",
-    "url": "https://github.com/mlr-org/mlr3",
     "via": ["mlr3tuning"],
     "from": "mlr3tuning"
   },
@@ -58,12 +52,6 @@
     "url": "https://github.com/mlr-org/paradox",
     "via": ["mlr3proba", "mlr3"],
     "from": "mlr3proba"
-  },
-  {
-    "package": "paradox",
-    "url": "https://github.com/mlr-org/paradox",
-    "via": ["mlr3spatial", "mlr3"],
-    "from": "mlr3spatial"
   },
   {
     "package": "paradox",
