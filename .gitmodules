@@ -123,6 +123,16 @@
 	url = https://github.com/alan-turing-institute/distr6
 	shallow = true
 	registered = false
+[submodule "param6"]
+	path = param6
+	url = https://github.com/xoopR/param6
+	shallow = true
+	registered = false
+[submodule "set6"]
+	path = set6
+	url = https://github.com/xoopR/set6
+	shallow = true
+	registered = false
 [submodule "survivalmodels"]
 	path = survivalmodels
 	url = https://github.com/RaphaelS1/survivalmodels
