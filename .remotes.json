@@ -14,6 +14,12 @@
   {
     "package": "distr6",
     "url": "https://github.com/alan-turing-institute/distr6",
+    "via": ["mlr3extralearners", "survivalmodels"],
+    "from": "mlr3extralearners"
+  },
+  {
+    "package": "distr6",
+    "url": "https://github.com/alan-turing-institute/distr6",
     "via": ["mlr3proba"],
     "from": "mlr3proba"
   },
@@ -44,20 +50,26 @@
   {
     "package": "paradox",
     "url": "https://github.com/mlr-org/paradox",
-    "via": ["mlr3extralearners", "mlr3proba", "mlr3"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "paradox",
-    "url": "https://github.com/mlr-org/paradox",
     "via": ["mlr3tuning", "mlr3"],
     "from": "mlr3tuning"
   },
   {
     "package": "param6",
     "url": "https://github.com/xoopR/param6",
+    "via": ["mlr3extralearners", "mlr3proba"],
+    "from": "mlr3extralearners"
+  },
+  {
+    "package": "param6",
+    "url": "https://github.com/xoopR/param6",
     "via": ["mlr3proba"],
     "from": "mlr3proba"
+  },
+  {
+    "package": "set6",
+    "url": "https://github.com/xoopR/set6",
+    "via": ["mlr3extralearners", "mlr3proba"],
+    "from": "mlr3extralearners"
   },
   {
     "package": "set6",
