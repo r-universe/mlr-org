@@ -5,19 +5,19 @@
   },
   {
     "package": "mlr3",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mlr3benchmark",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mlr3cluster",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mlr3data",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mlr3db",
@@ -25,50 +25,50 @@
   },
   {
     "package": "mlr3filters",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mlr3fselect",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mlr3hyperband",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mlr3learners",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mlr3misc",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mlr3oml",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mlr3pipelines",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mlr3proba"
   },
   {
     "package": "mlr3spatiotempcv",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mlr3tuning",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mlr3verse",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mlr3viz",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "paradox",
@@ -76,7 +76,7 @@
   },
   {
     "package": "mlr3spatial",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mlr3MBO"
