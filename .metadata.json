@@ -37,7 +37,7 @@
   },
   {
     "package": "mlr3learners",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "mlr3misc",
