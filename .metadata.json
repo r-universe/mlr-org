@@ -9,7 +9,7 @@
   },
   {
     "package": "mlr3benchmark",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mlr3cluster",
