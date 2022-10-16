@@ -55,8 +55,7 @@
     "package": "mlr3proba"
   },
   {
-    "package": "mlr3spatiotempcv",
-    "oncran": true
+    "package": "mlr3spatiotempcv"
   },
   {
     "package": "mlr3tuning",
