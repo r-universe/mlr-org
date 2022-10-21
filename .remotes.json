@@ -20,12 +20,6 @@
   {
     "package": "distr6",
     "url": "https://github.com/alan-turing-institute/distr6",
-    "via": ["mlr3extralearners", "mlr3proba", "mlr3"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "distr6",
-    "url": "https://github.com/alan-turing-institute/distr6",
     "via": ["mlr3extralearners", "survivalmodels"],
     "from": "mlr3extralearners"
   },
@@ -81,12 +75,6 @@
     "package": "param6",
     "url": "https://github.com/xoopR/param6",
     "via": ["mlr3extralearners", "mlr3proba"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["mlr3extralearners", "mlr3proba", "mlr3", "distr6"],
     "from": "mlr3extralearners"
   },
   {
@@ -159,18 +147,6 @@
     "package": "set6",
     "url": "https://github.com/xoopR/set6",
     "via": ["mlr3extralearners", "mlr3proba"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3extralearners", "mlr3proba", "mlr3", "distr6"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3extralearners", "mlr3proba", "mlr3", "distr6", "param6"],
     "from": "mlr3extralearners"
   },
   {
