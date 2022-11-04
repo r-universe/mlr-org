@@ -48,16 +48,9 @@
     "from": "mlr3proba"
   },
   {
-    "package": "mlr3",
-    "url": "https://github.com/mlr-org/mlr3",
-    "via": ["mlr3tuning"],
-    "from": "mlr3tuning"
-  },
-  {
     "package": "mlr3learners",
     "url": "https://github.com/mlr-org/mlr3learners",
     "via": ["mlr3tuning"],
-    "branch": "xgboost_early_stopping",
     "from": "mlr3tuning"
   },
   {
