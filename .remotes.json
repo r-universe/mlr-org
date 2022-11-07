@@ -6,13 +6,6 @@
     "from": "mlr3extralearners"
   },
   {
-    "package": "bbotk",
-    "url": "https://github.com/mlr-org/bbotk",
-    "via": ["mlr3hyperband"],
-    "branch": "release",
-    "from": "mlr3hyperband"
-  },
-  {
     "package": "distr6",
     "url": "https://github.com/alan-turing-institute/distr6",
     "via": ["mlr3extralearners"],
