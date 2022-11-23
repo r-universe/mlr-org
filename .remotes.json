@@ -30,12 +30,6 @@
     "from": "mlr3proba"
   },
   {
-    "package": "distr6",
-    "url": "https://github.com/alan-turing-institute/distr6",
-    "via": ["mlr3proba", "mlr3"],
-    "from": "mlr3proba"
-  },
-  {
     "package": "mlr3",
     "url": "https://github.com/mlr-org/mlr3",
     "via": ["mlr3extralearners", "mlr3proba"],
@@ -99,12 +93,6 @@
     "package": "param6",
     "url": "https://github.com/xoopR/param6",
     "via": ["mlr3proba"],
-    "from": "mlr3proba"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["mlr3proba", "mlr3", "distr6"],
     "from": "mlr3proba"
   },
   {
@@ -201,18 +189,6 @@
     "package": "set6",
     "url": "https://github.com/xoopR/set6",
     "via": ["mlr3proba"],
-    "from": "mlr3proba"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3proba", "mlr3", "distr6"],
-    "from": "mlr3proba"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3proba", "mlr3", "distr6", "param6"],
     "from": "mlr3proba"
   },
   {
