@@ -44,8 +44,7 @@
     "oncran": true
   },
   {
-    "package": "mlr3oml",
-    "oncran": true
+    "package": "mlr3oml"
   },
   {
     "package": "mlr3pipelines",
