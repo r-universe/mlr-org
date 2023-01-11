@@ -6,6 +6,12 @@
     "from": "mlr3extralearners"
   },
   {
+    "package": "aorsf",
+    "url": "https://github.com/ropensci/aorsf",
+    "via": ["mlr3extralearners"],
+    "from": "mlr3extralearners"
+  },
+  {
     "package": "distr6",
     "url": "https://github.com/alan-turing-institute/distr6",
     "via": ["mlr3extralearners"],

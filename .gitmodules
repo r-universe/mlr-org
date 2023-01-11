@@ -118,6 +118,11 @@
 	url = https://github.com/binderh/CoxBoost
 	shallow = true
 	registered = false
+[submodule "aorsf"]
+	path = aorsf
+	url = https://github.com/ropensci/aorsf
+	shallow = true
+	registered = false
 [submodule "distr6"]
 	path = distr6
 	url = https://github.com/alan-turing-institute/distr6
