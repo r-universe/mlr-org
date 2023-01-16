@@ -6,9 +6,10 @@
     "from": "mlr3extralearners"
   },
   {
-    "package": "aorsf",
-    "url": "https://github.com/ropensci/aorsf",
+    "package": "catboost",
+    "url": "https://github.com/catboost/catboost",
     "via": ["mlr3extralearners"],
+    "subdir": "catboost/R-package",
     "from": "mlr3extralearners"
   },
   {
