@@ -14,18 +14,6 @@
   {
     "package": "distr6",
     "url": "https://github.com/alan-turing-institute/distr6",
-    "via": ["mlr3extralearners", "mlr3proba"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "distr6",
-    "url": "https://github.com/alan-turing-institute/distr6",
-    "via": ["mlr3extralearners", "survivalmodels"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "distr6",
-    "url": "https://github.com/alan-turing-institute/distr6",
     "via": ["mlr3proba"],
     "from": "mlr3proba"
   },
@@ -44,36 +32,6 @@
   {
     "package": "param6",
     "url": "https://github.com/xoopR/param6",
-    "via": ["mlr3extralearners", "mlr3proba", "distr6"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["mlr3extralearners", "mlr3proba"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["mlr3extralearners", "survivalmodels", "distr6"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/RaphaelS1/param6",
-    "via": ["mlr3extralearners", "survivalmodels"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["mlr3extralearners"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
     "via": ["mlr3proba", "distr6"],
     "from": "mlr3proba"
   },
@@ -87,72 +45,6 @@
     "package": "set6",
     "url": "https://github.com/xoopR/set6",
     "via": ["mlr3extralearners", "distr6"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3extralearners", "distr6", "param6"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3extralearners", "mlr3proba", "distr6"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3extralearners", "mlr3proba", "distr6", "param6"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3extralearners", "mlr3proba", "param6"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3extralearners", "mlr3proba"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3extralearners", "survivalmodels", "distr6"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3extralearners", "survivalmodels", "distr6", "param6"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3extralearners", "survivalmodels", "param6"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/RaphaelS1/set6",
-    "via": ["mlr3extralearners", "survivalmodels"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3extralearners", "param6"],
-    "from": "mlr3extralearners"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3extralearners"],
     "from": "mlr3extralearners"
   },
   {
