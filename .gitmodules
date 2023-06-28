@@ -1,140 +1,90 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/mlr-org/universe
-	shallow = true
 	branch = HEAD
 [submodule "bbotk"]
 	path = bbotk
 	url = https://github.com/mlr-org/bbotk
-	shallow = true
-	registered = true
 [submodule "mlr3"]
 	path = mlr3
 	url = https://github.com/mlr-org/mlr3
-	shallow = true
-	registered = true
 [submodule "mlr3benchmark"]
 	path = mlr3benchmark
 	url = https://github.com/mlr-org/mlr3benchmark
-	shallow = true
-	registered = true
 [submodule "mlr3cluster"]
 	path = mlr3cluster
 	url = https://github.com/mlr-org/mlr3cluster
-	shallow = true
-	registered = true
 [submodule "mlr3data"]
 	path = mlr3data
 	url = https://github.com/mlr-org/mlr3data
-	shallow = true
-	registered = true
 [submodule "mlr3db"]
 	path = mlr3db
 	url = https://github.com/mlr-org/mlr3db
-	shallow = true
-	registered = true
 [submodule "mlr3filters"]
 	path = mlr3filters
 	url = https://github.com/mlr-org/mlr3filters
-	shallow = true
-	registered = true
 [submodule "mlr3fselect"]
 	path = mlr3fselect
 	url = https://github.com/mlr-org/mlr3fselect
-	shallow = true
-	registered = true
 [submodule "mlr3hyperband"]
 	path = mlr3hyperband
 	url = https://github.com/mlr-org/mlr3hyperband
-	shallow = true
-	registered = true
 [submodule "mlr3learners"]
 	path = mlr3learners
 	url = https://github.com/mlr-org/mlr3learners
-	shallow = true
-	registered = true
 [submodule "mlr3misc"]
 	path = mlr3misc
 	url = https://github.com/mlr-org/mlr3misc
-	shallow = true
-	registered = true
 [submodule "mlr3oml"]
 	path = mlr3oml
 	url = https://github.com/mlr-org/mlr3oml
-	shallow = true
-	registered = true
 [submodule "mlr3pipelines"]
 	path = mlr3pipelines
 	url = https://github.com/mlr-org/mlr3pipelines
-	shallow = true
-	registered = true
 [submodule "mlr3proba"]
 	path = mlr3proba
 	url = https://github.com/mlr-org/mlr3proba
-	shallow = true
-	registered = true
 [submodule "mlr3spatiotempcv"]
 	path = mlr3spatiotempcv
 	url = https://github.com/mlr-org/mlr3spatiotempcv
-	shallow = true
-	registered = true
 [submodule "mlr3tuning"]
 	path = mlr3tuning
 	url = https://github.com/mlr-org/mlr3tuning
-	shallow = true
-	registered = true
 [submodule "mlr3verse"]
 	path = mlr3verse
 	url = https://github.com/mlr-org/mlr3verse
-	shallow = true
-	registered = true
 [submodule "mlr3viz"]
 	path = mlr3viz
 	url = https://github.com/mlr-org/mlr3viz
-	shallow = true
-	registered = true
 [submodule "paradox"]
 	path = paradox
 	url = https://github.com/mlr-org/paradox
-	shallow = true
-	registered = true
 [submodule "mlr3spatial"]
 	path = mlr3spatial
 	url = https://github.com/mlr-org/mlr3spatial
-	shallow = true
-	registered = true
 [submodule "mlr3MBO"]
 	path = mlr3MBO
 	url = https://github.com/mlr-org/mlr3MBO
-	shallow = true
-	registered = true
 [submodule "mlr3extralearners"]
 	path = mlr3extralearners
 	url = https://github.com/mlr-org/mlr3extralearners
-	shallow = true
-	registered = true
 [submodule "CoxBoost"]
 	path = CoxBoost
 	url = https://github.com/binderh/CoxBoost
-	shallow = true
 	registered = false
 [submodule "distr6"]
 	path = distr6
 	url = https://github.com/alan-turing-institute/distr6
-	shallow = true
 	registered = false
 [submodule "param6"]
 	path = param6
 	url = https://github.com/xoopR/param6
-	shallow = true
 	registered = false
 [submodule "set6"]
 	path = set6
 	url = https://github.com/xoopR/set6
-	shallow = true
 	registered = false
 [submodule "survivalmodels"]
 	path = survivalmodels
 	url = https://github.com/RaphaelS1/survivalmodels
-	shallow = true
 	registered = false
