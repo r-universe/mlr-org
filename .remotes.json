@@ -36,12 +36,6 @@
     "from": "mlr3proba"
   },
   {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["mlr3proba"],
-    "from": "mlr3proba"
-  },
-  {
     "package": "set6",
     "url": "https://github.com/xoopR/set6",
     "via": ["mlr3extralearners", "distr6"],
@@ -51,24 +45,6 @@
     "package": "set6",
     "url": "https://github.com/xoopR/set6",
     "via": ["mlr3proba", "distr6"],
-    "from": "mlr3proba"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3proba", "distr6", "param6"],
-    "from": "mlr3proba"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3proba", "param6"],
-    "from": "mlr3proba"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3proba"],
     "from": "mlr3proba"
   },
   {
