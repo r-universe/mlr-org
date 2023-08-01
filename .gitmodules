@@ -2,12 +2,23 @@
 	path = .registry
 	url = https://github.com/mlr-org/universe
 	branch = HEAD
+[submodule "CoxBoost"]
+	path = CoxBoost
+	url = https://github.com/binderh/CoxBoost
+	registered = false
 [submodule "bbotk"]
 	path = bbotk
 	url = https://github.com/mlr-org/bbotk
+[submodule "distr6"]
+	path = distr6
+	url = https://github.com/alan-turing-institute/distr6
+	registered = false
 [submodule "mlr3"]
 	path = mlr3
 	url = https://github.com/mlr-org/mlr3
+[submodule "mlr3MBO"]
+	path = mlr3MBO
+	url = https://github.com/mlr-org/mlr3MBO
 [submodule "mlr3benchmark"]
 	path = mlr3benchmark
 	url = https://github.com/mlr-org/mlr3benchmark
@@ -20,6 +31,9 @@
 [submodule "mlr3db"]
 	path = mlr3db
 	url = https://github.com/mlr-org/mlr3db
+[submodule "mlr3extralearners"]
+	path = mlr3extralearners
+	url = https://github.com/mlr-org/mlr3extralearners
 [submodule "mlr3filters"]
 	path = mlr3filters
 	url = https://github.com/mlr-org/mlr3filters
@@ -44,6 +58,9 @@
 [submodule "mlr3proba"]
 	path = mlr3proba
 	url = https://github.com/mlr-org/mlr3proba
+[submodule "mlr3spatial"]
+	path = mlr3spatial
+	url = https://github.com/mlr-org/mlr3spatial
 [submodule "mlr3spatiotempcv"]
 	path = mlr3spatiotempcv
 	url = https://github.com/mlr-org/mlr3spatiotempcv
@@ -59,23 +76,6 @@
 [submodule "paradox"]
 	path = paradox
 	url = https://github.com/mlr-org/paradox
-[submodule "mlr3spatial"]
-	path = mlr3spatial
-	url = https://github.com/mlr-org/mlr3spatial
-[submodule "mlr3MBO"]
-	path = mlr3MBO
-	url = https://github.com/mlr-org/mlr3MBO
-[submodule "mlr3extralearners"]
-	path = mlr3extralearners
-	url = https://github.com/mlr-org/mlr3extralearners
-[submodule "CoxBoost"]
-	path = CoxBoost
-	url = https://github.com/binderh/CoxBoost
-	registered = false
-[submodule "distr6"]
-	path = distr6
-	url = https://github.com/alan-turing-institute/distr6
-	registered = false
 [submodule "param6"]
 	path = param6
 	url = https://github.com/xoopR/param6
