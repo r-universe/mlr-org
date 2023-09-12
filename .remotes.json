@@ -13,7 +13,7 @@
   },
   {
     "package": "distr6",
-    "url": "https://github.com/alan-turing-institute/distr6",
+    "url": "https://github.com/xoopR/distr6",
     "via": ["mlr3proba"],
     "from": "mlr3proba"
   },
