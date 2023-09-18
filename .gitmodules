@@ -11,7 +11,7 @@
 	url = https://github.com/mlr-org/bbotk
 [submodule "distr6"]
 	path = distr6
-	url = https://github.com/alan-turing-institute/distr6
+	url = https://github.com/xoopR/distr6
 	registered = false
 [submodule "mlr3"]
 	path = mlr3
