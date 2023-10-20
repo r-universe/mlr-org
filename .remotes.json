@@ -6,9 +6,16 @@
     "from": "mlr3extralearners"
   },
   {
+    "package": "catboost",
+    "url": "https://github.com/catboost/catboost",
+    "via": ["mlr3extralearners"],
+    "subdir": "catboost/R-package",
+    "from": "mlr3extralearners"
+  },
+  {
     "package": "distr6",
     "url": "https://github.com/xoopR/distr6",
-    "via": ["mlr3extralearners"],
+    "via": ["mlr3extralearners", "mlr3proba"],
     "from": "mlr3extralearners"
   },
   {
@@ -32,7 +39,7 @@
   {
     "package": "param6",
     "url": "https://github.com/xoopR/param6",
-    "via": ["mlr3extralearners", "distr6"],
+    "via": ["mlr3extralearners", "mlr3proba", "distr6"],
     "from": "mlr3extralearners"
   },
   {
@@ -44,7 +51,7 @@
   {
     "package": "set6",
     "url": "https://github.com/xoopR/set6",
-    "via": ["mlr3extralearners", "distr6"],
+    "via": ["mlr3extralearners", "mlr3proba", "distr6"],
     "from": "mlr3extralearners"
   },
   {
