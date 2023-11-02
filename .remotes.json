@@ -49,6 +49,12 @@
     "from": "mlr3proba"
   },
   {
+    "package": "randomPlantedForest",
+    "url": "https://github.com/PlantedML/randomPlantedForest",
+    "via": ["mlr3extralearners"],
+    "from": "mlr3extralearners"
+  },
+  {
     "package": "set6",
     "url": "https://github.com/xoopR/set6",
     "via": ["mlr3extralearners", "mlr3proba", "distr6"],
