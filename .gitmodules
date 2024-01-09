@@ -6,6 +6,10 @@
 	path = CoxBoost
 	url = https://github.com/binderh/CoxBoost
 	registered = false
+[submodule "aorsf"]
+	path = aorsf
+	url = https://github.com/ropensci/aorsf
+	registered = false
 [submodule "bbotk"]
 	path = bbotk
 	url = https://github.com/mlr-org/bbotk
