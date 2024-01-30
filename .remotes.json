@@ -31,6 +31,12 @@
     "from": "mlr3proba"
   },
   {
+    "package": "mlr3",
+    "url": "https://github.com/mlr-org/mlr3",
+    "via": ["mlr3torch"],
+    "from": "mlr3torch"
+  },
+  {
     "package": "mlr3proba",
     "url": "https://github.com/mlr-org/mlr3proba",
     "via": ["mlr3extralearners"],
@@ -71,5 +77,11 @@
     "url": "https://github.com/RaphaelS1/survivalmodels",
     "via": ["mlr3extralearners"],
     "from": "mlr3extralearners"
+  },
+  {
+    "package": "zip",
+    "url": "https://github.com/r-lib/zip",
+    "via": ["mlr3torch"],
+    "from": "mlr3torch"
   }
 ]

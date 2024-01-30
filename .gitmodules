@@ -113,3 +113,7 @@
 	path = survivalmodels
 	url = https://github.com/RaphaelS1/survivalmodels
 	registered = false
+[submodule "zip"]
+	path = zip
+	url = https://github.com/r-lib/zip
+	registered = false
