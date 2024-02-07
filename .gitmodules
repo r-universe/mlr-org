@@ -1,11 +1,14 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/mlr-org/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
 [submodule "CoxBoost"]
 	path = CoxBoost
 	url = https://github.com/binderh/CoxBoost
 	registered = false
+[submodule "ParamHelpers"]
+	path = ParamHelpers
+	url = https://github.com/mlr-org/paramhelpers
 [submodule "aorsf"]
 	path = aorsf
 	url = https://github.com/ropensci/aorsf
@@ -22,12 +25,24 @@
 	path = distr6
 	url = https://github.com/xoopR/distr6
 	registered = false
+[submodule "farff"]
+	path = farff
+	url = https://github.com/mlr-org/farff
+[submodule "mcboost"]
+	path = mcboost
+	url = https://github.com/mlr-org/mcboost
+[submodule "miesmuschel"]
+	path = miesmuschel
+	url = https://github.com/mlr-org/miesmuschel
+[submodule "mlr"]
+	path = mlr
+	url = https://github.com/mlr-org/mlr
 [submodule "mlr3"]
 	path = mlr3
 	url = https://github.com/mlr-org/mlr3
-[submodule "mlr3MBO"]
-	path = mlr3MBO
-	url = https://github.com/mlr-org/mlr3MBO
+[submodule "mlr3batchmark"]
+	path = mlr3batchmark
+	url = https://github.com/mlr-org/mlr3batchmark
 [submodule "mlr3benchmark"]
 	path = mlr3benchmark
 	url = https://github.com/mlr-org/mlr3benchmark
@@ -40,9 +55,9 @@
 [submodule "mlr3db"]
 	path = mlr3db
 	url = https://github.com/mlr-org/mlr3db
-[submodule "mlr3extralearners"]
-	path = mlr3extralearners
-	url = https://github.com/mlr-org/mlr3extralearners
+[submodule "mlr3fairness"]
+	path = mlr3fairness
+	url = https://github.com/mlr-org/mlr3fairness
 [submodule "mlr3filters"]
 	path = mlr3filters
 	url = https://github.com/mlr-org/mlr3filters
@@ -55,6 +70,12 @@
 [submodule "mlr3learners"]
 	path = mlr3learners
 	url = https://github.com/mlr-org/mlr3learners
+[submodule "mlr3mbo"]
+	path = mlr3mbo
+	url = https://github.com/mlr-org/mlr3mbo
+[submodule "mlr3measures"]
+	path = mlr3measures
+	url = https://github.com/mlr-org/mlr3measures
 [submodule "mlr3misc"]
 	path = mlr3misc
 	url = https://github.com/mlr-org/mlr3misc
@@ -67,6 +88,7 @@
 [submodule "mlr3proba"]
 	path = mlr3proba
 	url = https://github.com/mlr-org/mlr3proba
+	registered = false
 [submodule "mlr3spatial"]
 	path = mlr3spatial
 	url = https://github.com/mlr-org/mlr3spatial
@@ -76,15 +98,27 @@
 [submodule "mlr3tuning"]
 	path = mlr3tuning
 	url = https://github.com/mlr-org/mlr3tuning
+[submodule "mlr3tuningspaces"]
+	path = mlr3tuningspaces
+	url = https://github.com/mlr-org/mlr3tuningspaces
 [submodule "mlr3verse"]
 	path = mlr3verse
 	url = https://github.com/mlr-org/mlr3verse
 [submodule "mlr3viz"]
 	path = mlr3viz
 	url = https://github.com/mlr-org/mlr3viz
+[submodule "mlrCPO"]
+	path = mlrCPO
+	url = https://github.com/mlr-org/mlrcpo
+[submodule "mlrMBO"]
+	path = mlrMBO
+	url = https://github.com/mlr-org/mlrmbo
 [submodule "paradox"]
 	path = paradox
 	url = https://github.com/mlr-org/paradox
+[submodule "parallelMap"]
+	path = parallelMap
+	url = https://github.com/mlr-org/parallelmap
 [submodule "param6"]
 	path = param6
 	url = https://github.com/xoopR/param6
