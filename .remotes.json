@@ -79,6 +79,12 @@
     "from": "mlr3extralearners"
   },
   {
+    "package": "tf",
+    "url": "https://github.com/tidyfun/tf",
+    "via": ["mlr3fda"],
+    "from": "mlr3fda"
+  },
+  {
     "package": "zip",
     "url": "https://github.com/r-lib/zip",
     "via": ["mlr3torch"],
