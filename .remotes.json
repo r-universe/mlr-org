@@ -1,9 +1,46 @@
 [
   {
+    "package": "CoxBoost",
+    "url": "https://github.com/binderh/CoxBoost",
+    "via": ["mlr3extralearners"],
+    "from": "mlr3extralearners"
+  },
+  {
+    "package": "aorsf",
+    "url": "https://github.com/ropensci/aorsf",
+    "via": ["mlr3extralearners"],
+    "from": "mlr3extralearners"
+  },
+  {
+    "package": "catboost",
+    "url": "https://github.com/catboost/catboost",
+    "via": ["mlr3extralearners"],
+    "subdir": "catboost/R-package",
+    "from": "mlr3extralearners"
+  },
+  {
+    "package": "distr6",
+    "url": "https://github.com/xoopR/distr6",
+    "via": ["mlr3extralearners", "mlr3proba"],
+    "from": "mlr3extralearners"
+  },
+  {
     "package": "distr6",
     "url": "https://github.com/xoopR/distr6",
     "via": ["mlr3proba"],
     "from": "mlr3proba"
+  },
+  {
+    "package": "mlr3proba",
+    "url": "https://github.com/mlr-org/mlr3proba",
+    "via": ["mlr3extralearners"],
+    "from": "mlr3extralearners"
+  },
+  {
+    "package": "param6",
+    "url": "https://github.com/xoopR/param6",
+    "via": ["mlr3extralearners", "mlr3proba", "distr6"],
+    "from": "mlr3extralearners"
   },
   {
     "package": "param6",
@@ -12,9 +49,27 @@
     "from": "mlr3proba"
   },
   {
+    "package": "randomPlantedForest",
+    "url": "https://github.com/PlantedML/randomPlantedForest",
+    "via": ["mlr3extralearners"],
+    "from": "mlr3extralearners"
+  },
+  {
+    "package": "set6",
+    "url": "https://github.com/xoopR/set6",
+    "via": ["mlr3extralearners", "mlr3proba", "distr6"],
+    "from": "mlr3extralearners"
+  },
+  {
     "package": "set6",
     "url": "https://github.com/xoopR/set6",
     "via": ["mlr3proba", "distr6"],
     "from": "mlr3proba"
+  },
+  {
+    "package": "survivalmodels",
+    "url": "https://github.com/RaphaelS1/survivalmodels",
+    "via": ["mlr3extralearners"],
+    "from": "mlr3extralearners"
   }
 ]
