@@ -117,7 +117,7 @@
 	path = tf
 	url = https://github.com/tidyfun/tf
 	registered = false
-[submodule "zip"]
-	path = zip
-	url = https://github.com/r-lib/zip
+[submodule "torchvision"]
+	path = torchvision
+	url = https://github.com/mlverse/torchvision
 	registered = false
