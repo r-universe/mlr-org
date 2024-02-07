@@ -25,9 +25,9 @@
 [submodule "mlr3"]
 	path = mlr3
 	url = https://github.com/mlr-org/mlr3
-[submodule "mlr3MBO"]
-	path = mlr3MBO
-	url = https://github.com/mlr-org/mlr3MBO
+[submodule "mlr3batchmark"]
+	path = mlr3batchmark
+	url = https://github.com/mlr-org/mlr3batchmark
 [submodule "mlr3benchmark"]
 	path = mlr3benchmark
 	url = https://github.com/mlr-org/mlr3benchmark
@@ -43,6 +43,9 @@
 [submodule "mlr3extralearners"]
 	path = mlr3extralearners
 	url = https://github.com/mlr-org/mlr3extralearners
+[submodule "mlr3fda"]
+	path = mlr3fda
+	url = https://github.com/mlr-org/mlr3fda
 [submodule "mlr3filters"]
 	path = mlr3filters
 	url = https://github.com/mlr-org/mlr3filters
@@ -55,6 +58,9 @@
 [submodule "mlr3learners"]
 	path = mlr3learners
 	url = https://github.com/mlr-org/mlr3learners
+[submodule "mlr3mbo"]
+	path = mlr3mbo
+	url = https://github.com/mlr-org/mlr3mbo
 [submodule "mlr3misc"]
 	path = mlr3misc
 	url = https://github.com/mlr-org/mlr3misc
@@ -73,6 +79,9 @@
 [submodule "mlr3spatiotempcv"]
 	path = mlr3spatiotempcv
 	url = https://github.com/mlr-org/mlr3spatiotempcv
+[submodule "mlr3torch"]
+	path = mlr3torch
+	url = https://github.com/mlr-org/mlr3torch
 [submodule "mlr3tuning"]
 	path = mlr3tuning
 	url = https://github.com/mlr-org/mlr3tuning
@@ -93,6 +102,9 @@
 	path = randomPlantedForest
 	url = https://github.com/PlantedML/randomPlantedForest
 	registered = false
+[submodule "rush"]
+	path = rush
+	url = https://github.com/mlr-org/rush
 [submodule "set6"]
 	path = set6
 	url = https://github.com/xoopR/set6
