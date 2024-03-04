@@ -26,12 +26,6 @@
   {
     "package": "bbotk",
     "url": "https://github.com/mlr-org/bbotk",
-    "via": ["mlr3tuning"],
-    "from": "mlr3tuning"
-  },
-  {
-    "package": "bbotk",
-    "url": "https://github.com/mlr-org/bbotk",
     "via": ["mlr3viz"],
     "from": "mlr3viz"
   },
@@ -70,12 +64,6 @@
   {
     "package": "mlr3",
     "url": "https://github.com/mlr-org/mlr3",
-    "via": ["mlr3tuning"],
-    "from": "mlr3tuning"
-  },
-  {
-    "package": "mlr3",
-    "url": "https://github.com/mlr-org/mlr3",
     "via": ["mlr3viz", "mlr3tuning"],
     "from": "mlr3viz"
   },
@@ -90,12 +78,6 @@
     "url": "https://github.com/mlr-org/mlr3learners",
     "via": ["mlr3mbo", "mlr3tuning"],
     "from": "mlr3mbo"
-  },
-  {
-    "package": "mlr3learners",
-    "url": "https://github.com/mlr-org/mlr3learners",
-    "via": ["mlr3tuning"],
-    "from": "mlr3tuning"
   },
   {
     "package": "mlr3learners",
