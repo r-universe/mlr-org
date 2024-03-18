@@ -86,12 +86,6 @@
     "from": "mlr3extralearners"
   },
   {
-    "package": "tf",
-    "url": "https://github.com/tidyfun/tf",
-    "via": ["mlr3fda"],
-    "from": "mlr3fda"
-  },
-  {
     "package": "torchvision",
     "url": "https://github.com/mlverse/torchvision",
     "via": ["mlr3torch"],
