@@ -40,7 +40,6 @@
     "package": "mlr3pipelines",
     "url": "https://github.com/mlr-org/mlr3pipelines",
     "via": ["mlr3torch"],
-    "branch": "feat/keep_results",
     "from": "mlr3torch"
   },
   {
