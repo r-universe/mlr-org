@@ -37,6 +37,12 @@
     "from": "mlr3torch"
   },
   {
+    "package": "mlr3misc",
+    "url": "https://github.com/mlr-org/mlr3misc",
+    "via": ["bbotk"],
+    "from": "bbotk"
+  },
+  {
     "package": "mlr3pipelines",
     "url": "https://github.com/mlr-org/mlr3pipelines",
     "via": ["mlr3torch"],
@@ -65,6 +71,12 @@
     "url": "https://github.com/PlantedML/randomPlantedForest",
     "via": ["mlr3extralearners"],
     "from": "mlr3extralearners"
+  },
+  {
+    "package": "rush",
+    "url": "https://github.com/mlr-org/rush",
+    "via": ["bbotk"],
+    "from": "bbotk"
   },
   {
     "package": "set6",
