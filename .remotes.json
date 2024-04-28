@@ -12,6 +12,12 @@
     "from": "mlr3extralearners"
   },
   {
+    "package": "bbotk",
+    "url": "https://github.com/mlr-org/bbotk",
+    "via": ["mlr3tuning"],
+    "from": "mlr3tuning"
+  },
+  {
     "package": "catboost",
     "url": "https://github.com/catboost/catboost",
     "via": ["mlr3extralearners"],
@@ -41,6 +47,12 @@
     "url": "https://github.com/mlr-org/mlr3misc",
     "via": ["bbotk"],
     "from": "bbotk"
+  },
+  {
+    "package": "mlr3misc",
+    "url": "https://github.com/mlr-org/mlr3misc",
+    "via": ["mlr3tuning", "bbotk"],
+    "from": "mlr3tuning"
   },
   {
     "package": "mlr3pipelines",
@@ -77,6 +89,12 @@
     "url": "https://github.com/mlr-org/rush",
     "via": ["bbotk"],
     "from": "bbotk"
+  },
+  {
+    "package": "rush",
+    "url": "https://github.com/mlr-org/rush",
+    "via": ["mlr3tuning", "bbotk"],
+    "from": "mlr3tuning"
   },
   {
     "package": "set6",
