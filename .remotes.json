@@ -74,6 +74,12 @@
     "from": "mlr3extralearners"
   },
   {
+    "package": "paradox",
+    "url": "https://github.com/mlr-org/paradox",
+    "via": ["bbotk"],
+    "from": "bbotk"
+  },
+  {
     "package": "param6",
     "url": "https://github.com/xoopR/param6",
     "via": ["mlr3extralearners", "mlr3proba", "distr6"],
