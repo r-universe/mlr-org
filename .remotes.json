@@ -37,12 +37,6 @@
     "from": "mlr3proba"
   },
   {
-    "package": "mlr3",
-    "url": "https://github.com/mlr-org/mlr3",
-    "via": ["mlr3torch"],
-    "from": "mlr3torch"
-  },
-  {
     "package": "mlr3misc",
     "url": "https://github.com/mlr-org/mlr3misc",
     "via": ["bbotk"],
@@ -53,12 +47,6 @@
     "url": "https://github.com/mlr-org/mlr3misc",
     "via": ["mlr3tuning", "bbotk"],
     "from": "mlr3tuning"
-  },
-  {
-    "package": "mlr3pipelines",
-    "url": "https://github.com/mlr-org/mlr3pipelines",
-    "via": ["mlr3torch"],
-    "from": "mlr3torch"
   },
   {
     "package": "mlr3pipelines",
@@ -78,6 +66,12 @@
     "url": "https://github.com/mlr-org/paradox",
     "via": ["bbotk"],
     "from": "bbotk"
+  },
+  {
+    "package": "paradox",
+    "url": "https://github.com/mlr-org/paradox",
+    "via": ["mlr3torch"],
+    "from": "mlr3torch"
   },
   {
     "package": "paradox",
@@ -132,6 +126,12 @@
     "url": "https://github.com/RaphaelS1/survivalmodels",
     "via": ["mlr3extralearners"],
     "from": "mlr3extralearners"
+  },
+  {
+    "package": "torch",
+    "url": "https://github.com/mlverse/torch",
+    "via": ["mlr3torch"],
+    "from": "mlr3torch"
   },
   {
     "package": "torchvision",
