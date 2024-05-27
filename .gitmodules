@@ -113,10 +113,6 @@
 	path = survivalmodels
 	url = https://github.com/RaphaelS1/survivalmodels
 	registered = false
-[submodule "torch"]
-	path = torch
-	url = https://github.com/mlverse/torch
-	registered = false
 [submodule "torchvision"]
 	path = torchvision
 	url = https://github.com/mlverse/torchvision
