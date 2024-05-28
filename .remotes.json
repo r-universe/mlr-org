@@ -20,6 +20,12 @@
   {
     "package": "bbotk",
     "url": "https://github.com/mlr-org/bbotk",
+    "via": ["mlr3hyperband", "mlr3tuning"],
+    "from": "mlr3hyperband"
+  },
+  {
+    "package": "bbotk",
+    "url": "https://github.com/mlr-org/bbotk",
     "via": ["mlr3tuning"],
     "from": "mlr3tuning"
   },
@@ -57,8 +63,21 @@
   {
     "package": "mlr3misc",
     "url": "https://github.com/mlr-org/mlr3misc",
+    "via": ["mlr3hyperband", "mlr3tuning", "bbotk"],
+    "from": "mlr3hyperband"
+  },
+  {
+    "package": "mlr3misc",
+    "url": "https://github.com/mlr-org/mlr3misc",
     "via": ["mlr3tuning", "bbotk"],
     "from": "mlr3tuning"
+  },
+  {
+    "package": "mlr3pipelines",
+    "url": "https://github.com/mlr-org/mlr3pipelines",
+    "via": ["mlr3hyperband", "mlr3tuning"],
+    "branch": "bundle",
+    "from": "mlr3hyperband"
   },
   {
     "package": "mlr3pipelines",
@@ -74,6 +93,12 @@
     "from": "mlr3extralearners"
   },
   {
+    "package": "mlr3tuning",
+    "url": "https://github.com/mlr-org/mlr3tuning",
+    "via": ["mlr3hyperband"],
+    "from": "mlr3hyperband"
+  },
+  {
     "package": "paradox",
     "url": "https://github.com/mlr-org/paradox",
     "via": ["bbotk"],
@@ -84,6 +109,12 @@
     "url": "https://github.com/mlr-org/paradox",
     "via": ["mlr3fselect", "bbotk"],
     "from": "mlr3fselect"
+  },
+  {
+    "package": "paradox",
+    "url": "https://github.com/mlr-org/paradox",
+    "via": ["mlr3hyperband", "mlr3tuning", "bbotk"],
+    "from": "mlr3hyperband"
   },
   {
     "package": "paradox",
@@ -126,6 +157,12 @@
     "url": "https://github.com/mlr-org/rush",
     "via": ["mlr3fselect", "bbotk"],
     "from": "mlr3fselect"
+  },
+  {
+    "package": "rush",
+    "url": "https://github.com/mlr-org/rush",
+    "via": ["mlr3hyperband", "mlr3tuning", "bbotk"],
+    "from": "mlr3hyperband"
   },
   {
     "package": "rush",
