@@ -26,6 +26,12 @@
   {
     "package": "bbotk",
     "url": "https://github.com/mlr-org/bbotk",
+    "via": ["mlr3torch", "mlr3tuning"],
+    "from": "mlr3torch"
+  },
+  {
+    "package": "bbotk",
+    "url": "https://github.com/mlr-org/bbotk",
     "via": ["mlr3tuning"],
     "from": "mlr3tuning"
   },
@@ -52,6 +58,7 @@
     "package": "mlr3",
     "url": "https://github.com/mlr-org/mlr3",
     "via": ["mlr3torch"],
+    "branch": "feat/inner_valid",
     "from": "mlr3torch"
   },
   {
@@ -75,6 +82,12 @@
   {
     "package": "mlr3misc",
     "url": "https://github.com/mlr-org/mlr3misc",
+    "via": ["mlr3torch", "mlr3tuning", "bbotk"],
+    "from": "mlr3torch"
+  },
+  {
+    "package": "mlr3misc",
+    "url": "https://github.com/mlr-org/mlr3misc",
     "via": ["mlr3tuning", "bbotk"],
     "from": "mlr3tuning"
   },
@@ -89,6 +102,7 @@
     "package": "mlr3pipelines",
     "url": "https://github.com/mlr-org/mlr3pipelines",
     "via": ["mlr3torch"],
+    "branch": "feat/inner_valid",
     "from": "mlr3torch"
   },
   {
@@ -111,6 +125,13 @@
     "from": "mlr3hyperband"
   },
   {
+    "package": "mlr3tuning",
+    "url": "https://github.com/mlr-org/mlr3tuning",
+    "via": ["mlr3torch"],
+    "branch": "internal_tuning",
+    "from": "mlr3torch"
+  },
+  {
     "package": "paradox",
     "url": "https://github.com/mlr-org/paradox",
     "via": ["bbotk"],
@@ -127,6 +148,12 @@
     "url": "https://github.com/mlr-org/paradox",
     "via": ["mlr3hyperband", "mlr3tuning", "bbotk"],
     "from": "mlr3hyperband"
+  },
+  {
+    "package": "paradox",
+    "url": "https://github.com/mlr-org/paradox",
+    "via": ["mlr3torch", "mlr3tuning", "bbotk"],
+    "from": "mlr3torch"
   },
   {
     "package": "paradox",
@@ -169,6 +196,12 @@
     "url": "https://github.com/mlr-org/rush",
     "via": ["mlr3hyperband", "mlr3tuning", "bbotk"],
     "from": "mlr3hyperband"
+  },
+  {
+    "package": "rush",
+    "url": "https://github.com/mlr-org/rush",
+    "via": ["mlr3torch", "mlr3tuning", "bbotk"],
+    "from": "mlr3torch"
   },
   {
     "package": "rush",
