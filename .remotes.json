@@ -150,12 +150,6 @@
     "from": "mlr3torch"
   },
   {
-    "package": "paradox",
-    "url": "https://github.com/mlr-org/paradox",
-    "via": ["mlr3tuning", "bbotk"],
-    "from": "mlr3tuning"
-  },
-  {
     "package": "param6",
     "url": "https://github.com/xoopR/param6",
     "via": ["mlr3extralearners", "mlr3proba", "distr6"],
