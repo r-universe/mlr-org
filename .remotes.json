@@ -134,12 +134,6 @@
   {
     "package": "paradox",
     "url": "https://github.com/mlr-org/paradox",
-    "via": ["bbotk"],
-    "from": "bbotk"
-  },
-  {
-    "package": "paradox",
-    "url": "https://github.com/mlr-org/paradox",
     "via": ["mlr3fselect", "bbotk"],
     "from": "mlr3fselect"
   },
