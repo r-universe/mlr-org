@@ -144,12 +144,6 @@
     "from": "mlr3hyperband"
   },
   {
-    "package": "paradox",
-    "url": "https://github.com/mlr-org/paradox",
-    "via": ["mlr3torch", "mlr3tuning", "bbotk"],
-    "from": "mlr3torch"
-  },
-  {
     "package": "param6",
     "url": "https://github.com/xoopR/param6",
     "via": ["mlr3extralearners", "mlr3proba", "distr6"],
@@ -214,11 +208,5 @@
     "url": "https://github.com/RaphaelS1/survivalmodels",
     "via": ["mlr3extralearners"],
     "from": "mlr3extralearners"
-  },
-  {
-    "package": "torchvision",
-    "url": "https://github.com/mlverse/torchvision",
-    "via": ["mlr3torch"],
-    "from": "mlr3torch"
   }
 ]
