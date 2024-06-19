@@ -62,6 +62,13 @@
     "from": "mlr3torch"
   },
   {
+    "package": "mlr3",
+    "url": "https://github.com/mlr-org/mlr3",
+    "via": ["mlr3tuning"],
+    "branch": "feat/inner_valid",
+    "from": "mlr3tuning"
+  },
+  {
     "package": "mlr3misc",
     "url": "https://github.com/mlr-org/mlr3misc",
     "via": ["bbotk"],
