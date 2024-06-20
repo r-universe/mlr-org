@@ -106,13 +106,6 @@
     "from": "mlr3torch"
   },
   {
-    "package": "mlr3pipelines",
-    "url": "https://github.com/mlr-org/mlr3pipelines",
-    "via": ["mlr3tuning"],
-    "branch": "bundle",
-    "from": "mlr3tuning"
-  },
-  {
     "package": "mlr3proba",
     "url": "https://github.com/mlr-org/mlr3proba",
     "via": ["mlr3extralearners"],
