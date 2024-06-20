@@ -68,6 +68,18 @@
     "from": "mlr3torch"
   },
   {
+    "package": "mlr3",
+    "url": "https://github.com/mlr-org/mlr3",
+    "via": ["mlr3tuning"],
+    "from": "mlr3tuning"
+  },
+  {
+    "package": "mlr3learners",
+    "url": "https://github.com/mlr-org/mlr3learners",
+    "via": ["mlr3tuning"],
+    "from": "mlr3tuning"
+  },
+  {
     "package": "mlr3misc",
     "url": "https://github.com/mlr-org/mlr3misc",
     "via": ["bbotk"],
@@ -94,7 +106,7 @@
   {
     "package": "mlr3misc",
     "url": "https://github.com/mlr-org/mlr3misc",
-    "via": ["mlr3tuning", "bbotk"],
+    "via": ["mlr3tuning"],
     "from": "mlr3tuning"
   },
   {
