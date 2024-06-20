@@ -57,6 +57,12 @@
   {
     "package": "mlr3",
     "url": "https://github.com/mlr-org/mlr3",
+    "via": ["mlr3learners"],
+    "from": "mlr3learners"
+  },
+  {
+    "package": "mlr3",
+    "url": "https://github.com/mlr-org/mlr3",
     "via": ["mlr3torch"],
     "branch": "feat/inner_valid",
     "from": "mlr3torch"
