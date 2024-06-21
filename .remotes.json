@@ -26,6 +26,12 @@
   {
     "package": "bbotk",
     "url": "https://github.com/mlr-org/bbotk",
+    "via": ["mlr3mbo"],
+    "from": "mlr3mbo"
+  },
+  {
+    "package": "bbotk",
+    "url": "https://github.com/mlr-org/bbotk",
     "via": ["mlr3torch", "mlr3tuning"],
     "from": "mlr3torch"
   },
@@ -69,6 +75,12 @@
   {
     "package": "mlr3",
     "url": "https://github.com/mlr-org/mlr3",
+    "via": ["mlr3mbo", "mlr3tuning"],
+    "from": "mlr3mbo"
+  },
+  {
+    "package": "mlr3",
+    "url": "https://github.com/mlr-org/mlr3",
     "via": ["mlr3torch"],
     "branch": "feat/inner_valid",
     "from": "mlr3torch"
@@ -84,6 +96,12 @@
     "url": "https://github.com/mlr-org/mlr3",
     "via": ["mlr3viz"],
     "from": "mlr3viz"
+  },
+  {
+    "package": "mlr3learners",
+    "url": "https://github.com/mlr-org/mlr3learners",
+    "via": ["mlr3mbo", "mlr3tuning"],
+    "from": "mlr3mbo"
   },
   {
     "package": "mlr3learners",
@@ -114,6 +132,12 @@
     "url": "https://github.com/mlr-org/mlr3misc",
     "via": ["mlr3hyperband", "mlr3tuning", "bbotk"],
     "from": "mlr3hyperband"
+  },
+  {
+    "package": "mlr3misc",
+    "url": "https://github.com/mlr-org/mlr3misc",
+    "via": ["mlr3mbo", "bbotk"],
+    "from": "mlr3mbo"
   },
   {
     "package": "mlr3misc",
@@ -158,6 +182,12 @@
     "url": "https://github.com/mlr-org/mlr3tuning",
     "via": ["mlr3hyperband"],
     "from": "mlr3hyperband"
+  },
+  {
+    "package": "mlr3tuning",
+    "url": "https://github.com/mlr-org/mlr3tuning",
+    "via": ["mlr3mbo"],
+    "from": "mlr3mbo"
   },
   {
     "package": "mlr3tuning",
@@ -219,6 +249,12 @@
     "url": "https://github.com/mlr-org/rush",
     "via": ["mlr3hyperband", "mlr3tuning", "bbotk"],
     "from": "mlr3hyperband"
+  },
+  {
+    "package": "rush",
+    "url": "https://github.com/mlr-org/rush",
+    "via": ["mlr3mbo", "bbotk"],
+    "from": "mlr3mbo"
   },
   {
     "package": "rush",
