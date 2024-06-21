@@ -36,6 +36,12 @@
     "from": "mlr3tuning"
   },
   {
+    "package": "bbotk",
+    "url": "https://github.com/mlr-org/bbotk",
+    "via": ["mlr3viz"],
+    "from": "mlr3viz"
+  },
+  {
     "package": "catboost",
     "url": "https://github.com/catboost/catboost",
     "via": ["mlr3extralearners"],
@@ -74,10 +80,22 @@
     "from": "mlr3tuning"
   },
   {
+    "package": "mlr3",
+    "url": "https://github.com/mlr-org/mlr3",
+    "via": ["mlr3viz"],
+    "from": "mlr3viz"
+  },
+  {
     "package": "mlr3learners",
     "url": "https://github.com/mlr-org/mlr3learners",
     "via": ["mlr3tuning"],
     "from": "mlr3tuning"
+  },
+  {
+    "package": "mlr3learners",
+    "url": "https://github.com/mlr-org/mlr3learners",
+    "via": ["mlr3viz", "mlr3tuning"],
+    "from": "mlr3viz"
   },
   {
     "package": "mlr3misc",
@@ -108,6 +126,12 @@
     "url": "https://github.com/mlr-org/mlr3misc",
     "via": ["mlr3tuning"],
     "from": "mlr3tuning"
+  },
+  {
+    "package": "mlr3misc",
+    "url": "https://github.com/mlr-org/mlr3misc",
+    "via": ["mlr3viz", "bbotk"],
+    "from": "mlr3viz"
   },
   {
     "package": "mlr3pipelines",
@@ -141,6 +165,12 @@
     "via": ["mlr3torch"],
     "branch": "internal_tuning",
     "from": "mlr3torch"
+  },
+  {
+    "package": "mlr3tuning",
+    "url": "https://github.com/mlr-org/mlr3tuning",
+    "via": ["mlr3viz"],
+    "from": "mlr3viz"
   },
   {
     "package": "paradox",
@@ -201,6 +231,12 @@
     "url": "https://github.com/mlr-org/rush",
     "via": ["mlr3tuning", "bbotk"],
     "from": "mlr3tuning"
+  },
+  {
+    "package": "rush",
+    "url": "https://github.com/mlr-org/rush",
+    "via": ["mlr3viz", "bbotk"],
+    "from": "mlr3viz"
   },
   {
     "package": "set6",
