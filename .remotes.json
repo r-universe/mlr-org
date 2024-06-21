@@ -104,6 +104,12 @@
     "from": "mlr3viz"
   },
   {
+    "package": "mlr3fselect",
+    "url": "https://github.com/mlr-org/mlr3fselect",
+    "via": ["mlr3viz"],
+    "from": "mlr3viz"
+  },
+  {
     "package": "mlr3learners",
     "url": "https://github.com/mlr-org/mlr3learners",
     "via": ["mlr3hyperband", "mlr3tuning"],
@@ -212,6 +218,12 @@
     "url": "https://github.com/mlr-org/paradox",
     "via": ["mlr3fselect"],
     "from": "mlr3fselect"
+  },
+  {
+    "package": "paradox",
+    "url": "https://github.com/mlr-org/paradox",
+    "via": ["mlr3viz", "mlr3fselect"],
+    "from": "mlr3viz"
   },
   {
     "package": "param6",
