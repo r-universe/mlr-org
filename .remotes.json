@@ -107,6 +107,7 @@
     "package": "mlr3fselect",
     "url": "https://github.com/mlr-org/mlr3fselect",
     "via": ["mlr3viz"],
+    "branch": "efs_updates",
     "from": "mlr3viz"
   },
   {
