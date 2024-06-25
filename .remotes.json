@@ -136,12 +136,6 @@
   {
     "package": "mlr3misc",
     "url": "https://github.com/mlr-org/mlr3misc",
-    "via": ["bbotk"],
-    "from": "bbotk"
-  },
-  {
-    "package": "mlr3misc",
-    "url": "https://github.com/mlr-org/mlr3misc",
     "via": ["mlr3fselect", "bbotk"],
     "from": "mlr3fselect"
   },
@@ -242,12 +236,6 @@
     "url": "https://github.com/PlantedML/randomPlantedForest",
     "via": ["mlr3extralearners"],
     "from": "mlr3extralearners"
-  },
-  {
-    "package": "rush",
-    "url": "https://github.com/mlr-org/rush",
-    "via": ["bbotk"],
-    "from": "bbotk"
   },
   {
     "package": "rush",
