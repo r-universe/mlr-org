@@ -13,7 +13,7 @@
 [submodule "bbotk"]
 	path = bbotk
 	url = https://github.com/mlr-org/bbotk
-	branch = *release
+	branch = v1.0.0
 [submodule "catboost"]
 	path = catboost
 	url = https://github.com/catboost/catboost
@@ -26,97 +26,97 @@
 [submodule "mlr3"]
 	path = mlr3
 	url = https://github.com/mlr-org/mlr3
-	branch = *release
+	branch = v0.20.0
 [submodule "mlr3batchmark"]
 	path = mlr3batchmark
 	url = https://github.com/mlr-org/mlr3batchmark
-	branch = *release
+	branch = v0.1.1
 [submodule "mlr3benchmark"]
 	path = mlr3benchmark
 	url = https://github.com/mlr-org/mlr3benchmark
-	branch = *release
+	branch = v0.1.6
 [submodule "mlr3cluster"]
 	path = mlr3cluster
 	url = https://github.com/mlr-org/mlr3cluster
-	branch = *release
+	branch = v0.1.9
 [submodule "mlr3data"]
 	path = mlr3data
 	url = https://github.com/mlr-org/mlr3data
-	branch = *release
+	branch = v0.7.0
 [submodule "mlr3db"]
 	path = mlr3db
 	url = https://github.com/mlr-org/mlr3db
-	branch = *release
+	branch = v0.5.1
 [submodule "mlr3extralearners"]
 	path = mlr3extralearners
 	url = https://github.com/mlr-org/mlr3extralearners
-	branch = *release
+	branch = v0.8.0
 [submodule "mlr3fda"]
 	path = mlr3fda
 	url = https://github.com/mlr-org/mlr3fda
-	branch = *release
+	branch = v0.1.1
 [submodule "mlr3filters"]
 	path = mlr3filters
 	url = https://github.com/mlr-org/mlr3filters
-	branch = *release
+	branch = v0.8.0
 [submodule "mlr3fselect"]
 	path = mlr3fselect
 	url = https://github.com/mlr-org/mlr3fselect
-	branch = *release
+	branch = v0.12.0
 [submodule "mlr3hyperband"]
 	path = mlr3hyperband
 	url = https://github.com/mlr-org/mlr3hyperband
-	branch = *release
+	branch = v0.5.0
 [submodule "mlr3learners"]
 	path = mlr3learners
 	url = https://github.com/mlr-org/mlr3learners
-	branch = *release
+	branch = v0.7.0
 [submodule "mlr3mbo"]
 	path = mlr3mbo
 	url = https://github.com/mlr-org/mlr3mbo
-	branch = *release
+	branch = v0.2.2
 [submodule "mlr3misc"]
 	path = mlr3misc
 	url = https://github.com/mlr-org/mlr3misc
-	branch = *release
+	branch = v0.15.1
 [submodule "mlr3oml"]
 	path = mlr3oml
 	url = https://github.com/mlr-org/mlr3oml
-	branch = *release
+	branch = v0.10.0
 [submodule "mlr3pipelines"]
 	path = mlr3pipelines
 	url = https://github.com/mlr-org/mlr3pipelines
 [submodule "mlr3proba"]
 	path = mlr3proba
 	url = https://github.com/mlr-org/mlr3proba
-	branch = *release
+	branch = v0.6.0
 [submodule "mlr3spatial"]
 	path = mlr3spatial
 	url = https://github.com/mlr-org/mlr3spatial
-	branch = *release
+	branch = v0.5.0
 [submodule "mlr3spatiotempcv"]
 	path = mlr3spatiotempcv
 	url = https://github.com/mlr-org/mlr3spatiotempcv
-	branch = *release
+	branch = v2.3.1
 [submodule "mlr3torch"]
 	path = mlr3torch
 	url = https://github.com/mlr-org/mlr3torch
 [submodule "mlr3tuning"]
 	path = mlr3tuning
 	url = https://github.com/mlr-org/mlr3tuning
-	branch = *release
+	branch = v0.20.0
 [submodule "mlr3verse"]
 	path = mlr3verse
 	url = https://github.com/mlr-org/mlr3verse
-	branch = *release
+	branch = v0.2.7
 [submodule "mlr3viz"]
 	path = mlr3viz
 	url = https://github.com/mlr-org/mlr3viz
-	branch = *release
+	branch = v0.8.0
 [submodule "paradox"]
 	path = paradox
 	url = https://github.com/mlr-org/paradox
-	branch = *release
+	branch = v1.0.0
 [submodule "param6"]
 	path = param6
 	url = https://github.com/xoopR/param6
