@@ -154,12 +154,6 @@
   {
     "package": "mlr3misc",
     "url": "https://github.com/mlr-org/mlr3misc",
-    "via": ["mlr3tuning"],
-    "from": "mlr3tuning"
-  },
-  {
-    "package": "mlr3misc",
-    "url": "https://github.com/mlr-org/mlr3misc",
     "via": ["mlr3viz", "bbotk"],
     "from": "mlr3viz"
   },
@@ -242,12 +236,6 @@
     "url": "https://github.com/mlr-org/rush",
     "via": ["mlr3torch", "mlr3tuning", "bbotk"],
     "from": "mlr3torch"
-  },
-  {
-    "package": "rush",
-    "url": "https://github.com/mlr-org/rush",
-    "via": ["mlr3tuning", "bbotk"],
-    "from": "mlr3tuning"
   },
   {
     "package": "rush",
