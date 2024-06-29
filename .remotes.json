@@ -39,14 +39,13 @@
   {
     "package": "mlr3",
     "url": "https://github.com/mlr-org/mlr3",
-    "via": ["mlr3torch"],
-    "branch": "feat/inner_valid",
+    "via": ["mlr3torch", "mlr3tuning"],
     "from": "mlr3torch"
   },
   {
-    "package": "mlr3misc",
-    "url": "https://github.com/mlr-org/mlr3misc",
-    "via": ["mlr3torch", "mlr3tuning", "bbotk"],
+    "package": "mlr3learners",
+    "url": "https://github.com/mlr-org/mlr3learners",
+    "via": ["mlr3torch", "mlr3tuning"],
     "from": "mlr3torch"
   },
   {
@@ -66,7 +65,6 @@
     "package": "mlr3tuning",
     "url": "https://github.com/mlr-org/mlr3tuning",
     "via": ["mlr3torch"],
-    "branch": "internal_tuning",
     "from": "mlr3torch"
   },
   {
@@ -86,12 +84,6 @@
     "url": "https://github.com/PlantedML/randomPlantedForest",
     "via": ["mlr3extralearners"],
     "from": "mlr3extralearners"
-  },
-  {
-    "package": "rush",
-    "url": "https://github.com/mlr-org/rush",
-    "via": ["mlr3torch", "mlr3tuning", "bbotk"],
-    "from": "mlr3torch"
   },
   {
     "package": "set6",
