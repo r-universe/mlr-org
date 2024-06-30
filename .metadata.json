@@ -1,0 +1,98 @@
+[
+  {
+    "package": "bbotk",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3benchmark",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3cluster",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3data",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3db",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3filters",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3fselect",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3hyperband",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3learners",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3misc",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3oml",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3proba",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3spatiotempcv",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3tuning",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3verse",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3viz",
+    "releasetag": true
+  },
+  {
+    "package": "paradox",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3spatial",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3mbo",
+    "releasetag": true
+  },
+  {
+    "package": "rush",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3fda",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3batchmark",
+    "releasetag": true
+  },
+  {
+    "package": "mlr3extralearners",
+    "releasetag": true
+  }
+]
