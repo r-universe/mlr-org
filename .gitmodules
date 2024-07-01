@@ -112,7 +112,7 @@
 [submodule "mlr3viz"]
 	path = mlr3viz
 	url = https://github.com/mlr-org/mlr3viz
-	branch = v0.8.0
+	branch = v0.9.0
 [submodule "paradox"]
 	path = paradox
 	url = https://github.com/mlr-org/paradox
