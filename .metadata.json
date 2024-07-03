@@ -48,6 +48,10 @@
     "releasetag": true
   },
   {
+    "package": "mlr3pipelines",
+    "releasetag": true
+  },
+  {
     "package": "mlr3proba",
     "releasetag": true
   },
