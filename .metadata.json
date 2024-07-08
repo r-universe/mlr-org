@@ -84,6 +84,10 @@
     "releasetag": true
   },
   {
+    "package": "mlr3torch",
+    "releasetag": true
+  },
+  {
     "package": "rush",
     "releasetag": true
   },
