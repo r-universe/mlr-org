@@ -118,7 +118,7 @@
 [submodule "paradox"]
 	path = paradox
 	url = https://github.com/mlr-org/paradox
-	branch = v1.0.0
+	branch = v1.0.1
 [submodule "param6"]
 	path = param6
 	url = https://github.com/xoopR/param6
