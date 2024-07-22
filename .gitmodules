@@ -54,7 +54,7 @@
 [submodule "mlr3fda"]
 	path = mlr3fda
 	url = https://github.com/mlr-org/mlr3fda
-	branch = v0.1.1
+	branch = v0.2.0
 [submodule "mlr3filters"]
 	path = mlr3filters
 	url = https://github.com/mlr-org/mlr3filters
