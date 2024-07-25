@@ -90,7 +90,7 @@
 [submodule "mlr3proba"]
 	path = mlr3proba
 	url = https://github.com/mlr-org/mlr3proba
-	branch = v0.6.0
+	branch = v0.6.5
 [submodule "mlr3spatial"]
 	path = mlr3spatial
 	url = https://github.com/mlr-org/mlr3spatial
