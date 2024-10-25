@@ -70,7 +70,7 @@
 [submodule "mlr3learners"]
 	path = mlr3learners
 	url = https://github.com/mlr-org/mlr3learners
-	branch = v0.7.0
+	branch = v0.8.0
 [submodule "mlr3mbo"]
 	path = mlr3mbo
 	url = https://github.com/mlr-org/mlr3mbo
