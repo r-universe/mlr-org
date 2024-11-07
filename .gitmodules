@@ -13,7 +13,7 @@
 [submodule "bbotk"]
 	path = bbotk
 	url = https://github.com/mlr-org/bbotk
-	branch = v1.2.0
+	branch = v1.3.0
 [submodule "catboost"]
 	path = catboost
 	url = https://github.com/catboost/catboost
@@ -42,7 +42,7 @@
 [submodule "mlr3data"]
 	path = mlr3data
 	url = https://github.com/mlr-org/mlr3data
-	branch = v0.8.0
+	branch = v0.9.0
 [submodule "mlr3db"]
 	path = mlr3db
 	url = https://github.com/mlr-org/mlr3db
