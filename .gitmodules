@@ -58,7 +58,7 @@
 [submodule "mlr3filters"]
 	path = mlr3filters
 	url = https://github.com/mlr-org/mlr3filters
-	branch = v0.8.0
+	branch = v0.8.1
 [submodule "mlr3fselect"]
 	path = mlr3fselect
 	url = https://github.com/mlr-org/mlr3fselect
