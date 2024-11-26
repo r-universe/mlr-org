@@ -73,12 +73,6 @@
     "from": "mlr3extralearners"
   },
   {
-    "package": "rush",
-    "url": "https://github.com/mlr-org/rush",
-    "via": ["bbotk"],
-    "from": "bbotk"
-  },
-  {
     "package": "set6",
     "url": "https://github.com/xoopR/set6",
     "via": ["mlr3extralearners", "mlr3proba", "distr6"],
