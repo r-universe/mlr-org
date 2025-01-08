@@ -67,6 +67,10 @@
 	path = mlr3hyperband
 	url = https://github.com/mlr-org/mlr3hyperband
 	branch = v0.6.0
+[submodule "mlr3inferr"]
+	path = mlr3inferr
+	url = https://github.com/mlr-org/mlr3inferr
+	branch = *release
 [submodule "mlr3learners"]
 	path = mlr3learners
 	url = https://github.com/mlr-org/mlr3learners
