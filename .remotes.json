@@ -33,6 +33,12 @@
   {
     "package": "distr6",
     "url": "https://github.com/xoopR/distr6",
+    "via": ["mlr3verse", "mlr3proba"],
+    "from": "mlr3verse"
+  },
+  {
+    "package": "distr6",
+    "url": "https://github.com/xoopR/distr6",
     "via": ["mlr3viz", "mlr3proba"],
     "from": "mlr3viz"
   },
@@ -51,6 +57,12 @@
   {
     "package": "mlr3proba",
     "url": "https://github.com/mlr-org/mlr3proba",
+    "via": ["mlr3verse"],
+    "from": "mlr3verse"
+  },
+  {
+    "package": "mlr3proba",
+    "url": "https://github.com/mlr-org/mlr3proba",
     "via": ["mlr3viz"],
     "from": "mlr3viz"
   },
@@ -65,6 +77,12 @@
     "url": "https://github.com/xoopR/param6",
     "via": ["mlr3proba", "distr6"],
     "from": "mlr3proba"
+  },
+  {
+    "package": "param6",
+    "url": "https://github.com/xoopR/param6",
+    "via": ["mlr3verse", "mlr3proba", "distr6"],
+    "from": "mlr3verse"
   },
   {
     "package": "param6",
@@ -89,6 +107,12 @@
     "url": "https://github.com/xoopR/set6",
     "via": ["mlr3proba", "distr6"],
     "from": "mlr3proba"
+  },
+  {
+    "package": "set6",
+    "url": "https://github.com/xoopR/set6",
+    "via": ["mlr3verse", "mlr3proba", "distr6"],
+    "from": "mlr3verse"
   },
   {
     "package": "set6",
