@@ -78,7 +78,7 @@
 [submodule "mlr3mbo"]
 	path = mlr3mbo
 	url = https://github.com/mlr-org/mlr3mbo
-	branch = v0.3.0
+	branch = v0.3.1
 [submodule "mlr3misc"]
 	path = mlr3misc
 	url = https://github.com/mlr-org/mlr3misc
