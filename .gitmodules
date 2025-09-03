@@ -30,7 +30,7 @@
 [submodule "mlr3batchmark"]
 	path = mlr3batchmark
 	url = https://github.com/mlr-org/mlr3batchmark
-	branch = v0.2.1
+	branch = v0.2.2
 [submodule "mlr3benchmark"]
 	path = mlr3benchmark
 	url = https://github.com/mlr-org/mlr3benchmark
