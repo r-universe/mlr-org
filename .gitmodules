@@ -102,7 +102,7 @@
 [submodule "mlr3spatiotempcv"]
 	path = mlr3spatiotempcv
 	url = https://github.com/mlr-org/mlr3spatiotempcv
-	branch = v2.3.3
+	branch = v2.3.4
 [submodule "mlr3torch"]
 	path = mlr3torch
 	url = https://github.com/mlr-org/mlr3torch
