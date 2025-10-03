@@ -19,6 +19,11 @@
 	url = https://github.com/catboost/catboost
 	subdir = catboost/R-package
 	registered = false
+[submodule "coxed"]
+	path = coxed
+	url = https://github.com/jkropko/coxed
+	branch = bc92e25
+	registered = false
 [submodule "distr6"]
 	path = distr6
 	url = https://github.com/xoopR/distr6
@@ -94,7 +99,7 @@
 [submodule "mlr3proba"]
 	path = mlr3proba
 	url = https://github.com/mlr-org/mlr3proba
-	branch = v0.8.1
+	branch = v0.8.2
 [submodule "mlr3spatial"]
 	path = mlr3spatial
 	url = https://github.com/mlr-org/mlr3spatial
