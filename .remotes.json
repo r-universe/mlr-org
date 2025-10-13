@@ -6,16 +6,17 @@
     "from": "mlr3extralearners"
   },
   {
-    "package": "aorsf",
-    "url": "https://github.com/ropensci/aorsf",
-    "via": ["mlr3extralearners"],
-    "from": "mlr3extralearners"
-  },
-  {
     "package": "catboost",
     "url": "https://github.com/catboost/catboost",
     "via": ["mlr3extralearners"],
     "subdir": "catboost/R-package",
+    "from": "mlr3extralearners"
+  },
+  {
+    "package": "coxed",
+    "url": "https://github.com/jkropko/coxed",
+    "via": ["mlr3extralearners", "mlr3proba"],
+    "branch": "bc92e25",
     "from": "mlr3extralearners"
   },
   {
@@ -48,6 +49,12 @@
     "url": "https://github.com/xoopR/distr6",
     "via": ["mlr3viz", "mlr3proba"],
     "from": "mlr3viz"
+  },
+  {
+    "package": "mlr3cmprsk",
+    "url": "https://github.com/mlr-org/mlr3cmprsk",
+    "via": ["mlr3extralearners"],
+    "from": "mlr3extralearners"
   },
   {
     "package": "mlr3proba",
@@ -92,12 +99,6 @@
     "from": "mlr3viz"
   },
   {
-    "package": "randomPlantedForest",
-    "url": "https://github.com/PlantedML/randomPlantedForest",
-    "via": ["mlr3extralearners"],
-    "from": "mlr3extralearners"
-  },
-  {
     "package": "set6",
     "url": "https://github.com/xoopR/set6",
     "via": ["mlr3extralearners", "mlr3proba", "distr6"],
@@ -120,6 +121,12 @@
     "url": "https://github.com/xoopR/set6",
     "via": ["mlr3viz", "mlr3proba", "distr6"],
     "from": "mlr3viz"
+  },
+  {
+    "package": "survdistr",
+    "url": "https://github.com/mlr-org/survdistr",
+    "via": ["mlr3extralearners", "mlr3cmprsk"],
+    "from": "mlr3extralearners"
   },
   {
     "package": "survivalmodels",

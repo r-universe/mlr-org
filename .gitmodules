@@ -6,10 +6,6 @@
 	path = CoxBoost
 	url = https://github.com/binderh/CoxBoost
 	registered = false
-[submodule "aorsf"]
-	path = aorsf
-	url = https://github.com/ropensci/aorsf
-	registered = false
 [submodule "bbotk"]
 	path = bbotk
 	url = https://github.com/mlr-org/bbotk
@@ -44,6 +40,10 @@
 	path = mlr3cluster
 	url = https://github.com/mlr-org/mlr3cluster
 	branch = v0.1.11
+[submodule "mlr3cmprsk"]
+	path = mlr3cmprsk
+	url = https://github.com/mlr-org/mlr3cmprsk
+	registered = false
 [submodule "mlr3data"]
 	path = mlr3data
 	url = https://github.com/mlr-org/mlr3data
@@ -55,7 +55,7 @@
 [submodule "mlr3extralearners"]
 	path = mlr3extralearners
 	url = https://github.com/mlr-org/mlr3extralearners
-	branch = v1.1.0
+	branch = v1.2.0
 [submodule "mlr3fda"]
 	path = mlr3fda
 	url = https://github.com/mlr-org/mlr3fda
@@ -132,10 +132,6 @@
 	path = param6
 	url = https://github.com/xoopR/param6
 	registered = false
-[submodule "randomPlantedForest"]
-	path = randomPlantedForest
-	url = https://github.com/PlantedML/randomPlantedForest
-	registered = false
 [submodule "rush"]
 	path = rush
 	url = https://github.com/mlr-org/rush
@@ -143,6 +139,10 @@
 [submodule "set6"]
 	path = set6
 	url = https://github.com/xoopR/set6
+	registered = false
+[submodule "survdistr"]
+	path = survdistr
+	url = https://github.com/mlr-org/survdistr
 	registered = false
 [submodule "survivalmodels"]
 	path = survivalmodels
