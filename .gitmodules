@@ -151,4 +151,4 @@
 [submodule "xplainfi"]
 	path = xplainfi
 	url = https://github.com/mlr-org/xplainfi
-	branch = *release
+	branch = v0.2.0
