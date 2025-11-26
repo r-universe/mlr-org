@@ -65,7 +65,7 @@
 [submodule "mlr3inferr"]
 	path = mlr3inferr
 	url = https://github.com/mlr-org/mlr3inferr
-	branch = v0.2.0
+	branch = v0.2.1
 [submodule "mlr3learners"]
 	path = mlr3learners
 	url = https://github.com/mlr-org/mlr3learners
