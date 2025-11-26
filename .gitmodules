@@ -9,7 +9,7 @@
 [submodule "bbotk"]
 	path = bbotk
 	url = https://github.com/mlr-org/bbotk
-	branch = v1.8.0
+	branch = v1.8.1
 [submodule "catboost"]
 	path = catboost
 	url = https://github.com/catboost/catboost
