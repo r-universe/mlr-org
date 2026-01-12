@@ -106,5 +106,9 @@
   {
     "package": "mlr3extralearners",
     "releasetag": true
+  },
+  {
+    "package": "xplainfi",
+    "releasetag": true
   }
 ]

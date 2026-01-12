@@ -148,3 +148,7 @@
 	path = survivalmodels
 	url = https://github.com/RaphaelS1/survivalmodels
 	registered = false
+[submodule "xplainfi"]
+	path = xplainfi
+	url = https://github.com/mlr-org/xplainfi
+	branch = *release
