@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/mlr-org/mlr-org.r-universe.dev
 	branch = HEAD
-[submodule "CoxBoost"]
-	path = CoxBoost
-	url = https://github.com/binderh/CoxBoost
-	registered = false
 [submodule "bbotk"]
 	path = bbotk
 	url = https://github.com/mlr-org/bbotk
@@ -55,7 +51,7 @@
 [submodule "mlr3extralearners"]
 	path = mlr3extralearners
 	url = https://github.com/mlr-org/mlr3extralearners
-	branch = v1.3.1
+	branch = v1.4.0
 [submodule "mlr3fda"]
 	path = mlr3fda
 	url = https://github.com/mlr-org/mlr3fda

@@ -1,11 +1,5 @@
 [
   {
-    "package": "CoxBoost",
-    "url": "https://github.com/binderh/CoxBoost",
-    "via": ["mlr3extralearners"],
-    "from": "mlr3extralearners"
-  },
-  {
     "package": "catboost",
     "url": "https://github.com/catboost/catboost",
     "via": ["mlr3extralearners"],
