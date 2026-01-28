@@ -87,7 +87,7 @@
 [submodule "mlr3oml"]
 	path = mlr3oml
 	url = https://github.com/mlr-org/mlr3oml
-	branch = v0.11.0
+	branch = v0.12.0
 [submodule "mlr3pipelines"]
 	path = mlr3pipelines
 	url = https://github.com/mlr-org/mlr3pipelines
