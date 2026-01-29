@@ -6,20 +6,6 @@
 	path = bbotk
 	url = https://github.com/mlr-org/bbotk
 	branch = v1.8.1
-[submodule "catboost"]
-	path = catboost
-	url = https://github.com/catboost/catboost
-	subdir = catboost/R-package
-	registered = false
-[submodule "coxed"]
-	path = coxed
-	url = https://github.com/jkropko/coxed
-	branch = bc92e25
-	registered = false
-[submodule "distr6"]
-	path = distr6
-	url = https://github.com/xoopR/distr6
-	registered = false
 [submodule "mlr3"]
 	path = mlr3
 	url = https://github.com/mlr-org/mlr3
@@ -36,10 +22,6 @@
 	path = mlr3cluster
 	url = https://github.com/mlr-org/mlr3cluster
 	branch = v0.1.12
-[submodule "mlr3cmprsk"]
-	path = mlr3cmprsk
-	url = https://github.com/mlr-org/mlr3cmprsk
-	registered = false
 [submodule "mlr3data"]
 	path = mlr3data
 	url = https://github.com/mlr-org/mlr3data
@@ -124,26 +106,10 @@
 	path = paradox
 	url = https://github.com/mlr-org/paradox
 	branch = v1.0.1
-[submodule "param6"]
-	path = param6
-	url = https://github.com/xoopR/param6
-	registered = false
 [submodule "rush"]
 	path = rush
 	url = https://github.com/mlr-org/rush
 	branch = v0.4.1
-[submodule "set6"]
-	path = set6
-	url = https://github.com/xoopR/set6
-	registered = false
-[submodule "survdistr"]
-	path = survdistr
-	url = https://github.com/mlr-org/survdistr
-	registered = false
-[submodule "survivalmodels"]
-	path = survivalmodels
-	url = https://github.com/RaphaelS1/survivalmodels
-	registered = false
 [submodule "xplainfi"]
 	path = xplainfi
 	url = https://github.com/mlr-org/xplainfi
