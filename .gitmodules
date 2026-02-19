@@ -9,7 +9,7 @@
 [submodule "mlr3"]
 	path = mlr3
 	url = https://github.com/mlr-org/mlr3
-	branch = v1.3.0
+	branch = v1.4.0
 [submodule "mlr3batchmark"]
 	path = mlr3batchmark
 	url = https://github.com/mlr-org/mlr3batchmark
