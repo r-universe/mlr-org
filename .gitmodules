@@ -6,6 +6,14 @@
 	path = bbotk
 	url = https://github.com/mlr-org/bbotk
 	branch = v1.8.1
+[submodule "dictionar6"]
+	path = dictionar6
+	url = https://github.com/mlr-org/dictionar6
+	branch = main
+[submodule "distr6"]
+	path = distr6
+	url = https://github.com/mlr-org/distr6
+	branch = main
 [submodule "mlr3"]
 	path = mlr3
 	url = https://github.com/mlr-org/mlr3
@@ -22,6 +30,10 @@
 	path = mlr3cluster
 	url = https://github.com/mlr-org/mlr3cluster
 	branch = v0.2.0
+[submodule "mlr3cmprsk"]
+	path = mlr3cmprsk
+	url = https://github.com/mlr-org/mlr3cmprsk
+	branch = *release
 [submodule "mlr3data"]
 	path = mlr3data
 	url = https://github.com/mlr-org/mlr3data
@@ -102,14 +114,26 @@
 	path = mlr3viz
 	url = https://github.com/mlr-org/mlr3viz
 	branch = v0.11.0
+[submodule "ooplah"]
+	path = ooplah
+	url = https://github.com/mlr-org/ooplah
+	branch = main
 [submodule "paradox"]
 	path = paradox
 	url = https://github.com/mlr-org/paradox
 	branch = v1.0.1
+[submodule "param6"]
+	path = param6
+	url = https://github.com/mlr-org/param6
+	branch = main
 [submodule "rush"]
 	path = rush
 	url = https://github.com/mlr-org/rush
 	branch = v0.4.1
+[submodule "set6"]
+	path = set6
+	url = https://github.com/mlr-org/set6
+	branch = main
 [submodule "xplainfi"]
 	path = xplainfi
 	url = https://github.com/mlr-org/xplainfi

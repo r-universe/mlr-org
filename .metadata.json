@@ -110,5 +110,9 @@
   {
     "package": "xplainfi",
     "releasetag": true
+  },
+  {
+    "package": "mlr3cmprsk",
+    "releasetag": true
   }
 ]
