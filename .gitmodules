@@ -29,7 +29,7 @@
 [submodule "mlr3cluster"]
 	path = mlr3cluster
 	url = https://github.com/mlr-org/mlr3cluster
-	branch = v0.2.0
+	branch = v0.3.0
 [submodule "mlr3cmprsk"]
 	path = mlr3cmprsk
 	url = https://github.com/mlr-org/mlr3cmprsk
