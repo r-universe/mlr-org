@@ -129,7 +129,7 @@
 [submodule "rush"]
 	path = rush
 	url = https://github.com/mlr-org/rush
-	branch = v0.4.1
+	branch = v1.0.0
 [submodule "set6"]
 	path = set6
 	url = https://github.com/mlr-org/set6
