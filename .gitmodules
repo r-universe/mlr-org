@@ -138,6 +138,10 @@
 	path = survdistr
 	url = https://github.com/mlr-org/survdistr
 	branch = main
+[submodule "survivalmodelsmlr3"]
+	path = survivalmodelsmlr3
+	url = https://github.com/mlr-org/survivalmodelsmlr3
+	branch = main
 [submodule "xplainfi"]
 	path = xplainfi
 	url = https://github.com/mlr-org/xplainfi
