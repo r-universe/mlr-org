@@ -134,10 +134,6 @@
 	path = set6
 	url = https://github.com/mlr-org/set6
 	branch = main
-[submodule "survdistr"]
-	path = survdistr
-	url = https://github.com/mlr-org/survdistr
-	branch = main
 [submodule "xplainfi"]
 	path = xplainfi
 	url = https://github.com/mlr-org/xplainfi
