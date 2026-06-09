@@ -17,7 +17,7 @@
 [submodule "mlr3"]
 	path = mlr3
 	url = https://github.com/mlr-org/mlr3
-	branch = v1.6.0
+	branch = v1.7.0
 [submodule "mlr3batchmark"]
 	path = mlr3batchmark
 	url = https://github.com/mlr-org/mlr3batchmark
@@ -69,7 +69,7 @@
 [submodule "mlr3learners"]
 	path = mlr3learners
 	url = https://github.com/mlr-org/mlr3learners
-	branch = v0.14.0
+	branch = v0.15.0
 [submodule "mlr3mbo"]
 	path = mlr3mbo
 	url = https://github.com/mlr-org/mlr3mbo
@@ -77,7 +77,7 @@
 [submodule "mlr3misc"]
 	path = mlr3misc
 	url = https://github.com/mlr-org/mlr3misc
-	branch = v0.21.0
+	branch = v0.22.0
 [submodule "mlr3oml"]
 	path = mlr3oml
 	url = https://github.com/mlr-org/mlr3oml
