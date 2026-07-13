@@ -57,7 +57,7 @@
 [submodule "mlr3forecast"]
 	path = mlr3forecast
 	url = https://github.com/mlr-org/mlr3forecast
-	branch = *release
+	branch = v0.1.0
 [submodule "mlr3fselect"]
 	path = mlr3fselect
 	url = https://github.com/mlr-org/mlr3fselect
