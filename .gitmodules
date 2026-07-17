@@ -5,7 +5,7 @@
 [submodule "bbotk"]
 	path = bbotk
 	url = https://github.com/mlr-org/bbotk
-	branch = v1.11.0
+	branch = v1.12.0
 [submodule "dictionar6"]
 	path = dictionar6
 	url = https://github.com/mlr-org/dictionar6
