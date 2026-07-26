@@ -105,7 +105,7 @@
 [submodule "mlr3tuning"]
 	path = mlr3tuning
 	url = https://github.com/mlr-org/mlr3tuning
-	branch = v1.6.0
+	branch = v1.6.1
 [submodule "mlr3verse"]
 	path = mlr3verse
 	url = https://github.com/mlr-org/mlr3verse
@@ -113,7 +113,7 @@
 [submodule "mlr3viz"]
 	path = mlr3viz
 	url = https://github.com/mlr-org/mlr3viz
-	branch = v0.11.0
+	branch = v0.11.1
 [submodule "ooplah"]
 	path = ooplah
 	url = https://github.com/mlr-org/ooplah
