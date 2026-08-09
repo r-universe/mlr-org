@@ -114,5 +114,9 @@
   {
     "package": "mlr3cmprsk",
     "releasetag": true
+  },
+  {
+    "package": "mlr3forecast",
+    "releasetag": true
   }
 ]

@@ -54,6 +54,10 @@
 	path = mlr3filters
 	url = https://github.com/mlr-org/mlr3filters
 	branch = v0.9.1
+[submodule "mlr3forecast"]
+	path = mlr3forecast
+	url = https://github.com/mlr-org/mlr3forecast
+	branch = *release
 [submodule "mlr3fselect"]
 	path = mlr3fselect
 	url = https://github.com/mlr-org/mlr3fselect
