@@ -62,6 +62,9 @@
 	path = mlr3fselect
 	url = https://github.com/mlr-org/mlr3fselect
 	branch = v1.6.0
+[submodule "mlr3hf"]
+	path = mlr3hf
+	url = https://github.com/mlr-org/mlr3hf
 [submodule "mlr3hyperband"]
 	path = mlr3hyperband
 	url = https://github.com/mlr-org/mlr3hyperband
