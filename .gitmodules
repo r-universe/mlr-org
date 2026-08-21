@@ -25,7 +25,7 @@
 [submodule "mlr3benchmark"]
 	path = mlr3benchmark
 	url = https://github.com/mlr-org/mlr3benchmark
-	branch = v0.1.7
+	branch = v0.1.8
 [submodule "mlr3cluster"]
 	path = mlr3cluster
 	url = https://github.com/mlr-org/mlr3cluster
@@ -72,7 +72,7 @@
 [submodule "mlr3inferr"]
 	path = mlr3inferr
 	url = https://github.com/mlr-org/mlr3inferr
-	branch = v0.2.1
+	branch = v0.2.2
 [submodule "mlr3learners"]
 	path = mlr3learners
 	url = https://github.com/mlr-org/mlr3learners
