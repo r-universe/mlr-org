@@ -18,6 +18,9 @@
 	path = mlr3
 	url = https://github.com/mlr-org/mlr3
 	branch = v1.8.0
+[submodule "mlr3automl"]
+	path = mlr3automl
+	url = https://github.com/mlr-org/mlr3automl
 [submodule "mlr3batchmark"]
 	path = mlr3batchmark
 	url = https://github.com/mlr-org/mlr3batchmark
