@@ -92,6 +92,10 @@
     "releasetag": true
   },
   {
+    "package": "libcmaesr",
+    "releasetag": true
+  },
+  {
     "package": "rush",
     "releasetag": true
   },
