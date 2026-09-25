@@ -40,7 +40,7 @@
 [submodule "mlr3cmprsk"]
 	path = mlr3cmprsk
 	url = https://github.com/mlr-org/mlr3cmprsk
-	branch = v0.0.5
+	branch = v0.0.6
 [submodule "mlr3data"]
 	path = mlr3data
 	url = https://github.com/mlr-org/mlr3data
