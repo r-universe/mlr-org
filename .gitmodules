@@ -115,7 +115,7 @@
 [submodule "mlr3torch"]
 	path = mlr3torch
 	url = https://github.com/mlr-org/mlr3torch
-	branch = v0.3.3
+	branch = v0.4.0
 [submodule "mlr3tuning"]
 	path = mlr3tuning
 	url = https://github.com/mlr-org/mlr3tuning
