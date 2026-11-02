@@ -48,7 +48,7 @@
 [submodule "mlr3db"]
 	path = mlr3db
 	url = https://github.com/mlr-org/mlr3db
-	branch = v0.7.2
+	branch = v0.7.3
 [submodule "mlr3extralearners"]
 	path = mlr3extralearners
 	url = https://github.com/mlr-org/mlr3extralearners
@@ -56,7 +56,7 @@
 [submodule "mlr3fda"]
 	path = mlr3fda
 	url = https://github.com/mlr-org/mlr3fda
-	branch = v0.7.2
+	branch = v0.8.0
 [submodule "mlr3filters"]
 	path = mlr3filters
 	url = https://github.com/mlr-org/mlr3filters
